@@ -1,0 +1,1843 @@
+img_id,category,question,answer,mode,label,answer_type
+synpic25647,abnormality,is there an abnormality in the x-ray,no,val,125,CLOSED
+synpic35681,abnormality,is there an abnormality in the mri,no,val,125,CLOSED
+synpic35693,abnormality,is this a normal mri,yes,val,395,CLOSED
+synpic17419,abnormality,is this a normal ct scan,yes,val,395,CLOSED
+synpic32909,abnormality,what abnormality is seen in the image,cholelithiasis,val,276,OPEN
+synpic48040,abnormality,is there an abnormality in the ct scan,no,val,125,CLOSED
+synpic48351,abnormality,what abnormality is seen in the image,congenital cystic adenomatoid malformation,val,1252,OPEN
+synpic49503,abnormality,is there evidence of any abnormalities,no,val,125,CLOSED
+synpic18176,abnormality,what is abnormal in the ct scan,pancreatic ductal adenocarcinoma,val,1327,OPEN
+synpic36498,abnormality,is there an abnormality in the x-ray,no,val,125,CLOSED
+synpic26850,abnormality,is there an abnormality in the mri,no,val,125,CLOSED
+synpic23496,abnormality,what is most alarming about this mri,imaging in traumatic brain injury,val,30,OPEN
+synpic25435,abnormality,what is abnormal in the mri,dnet dysembryoplastic neuroepithelial tumor,val,209,OPEN
+synpic38894,abnormality,what is abnormal in the ct scan,liposarcoma myxoid liposarcoma,val,437,OPEN
+synpic25620,abnormality,is this image normal,yes,val,395,CLOSED
+synpic25634,abnormality,is there evidence of any abnormalities,no,val,125,CLOSED
+synpic36490,abnormality,does this image look normal,yes,val,395,CLOSED
+synpic40658,abnormality,what is the primary abnormality in this image,astrocytoma low-grade who 2 supratentorial,val,694,OPEN
+synpic27614,abnormality,is this a normal x-ray,yes,val,395,CLOSED
+synpic26245,abnormality,what is the primary abnormality in this image,adult medulloblastoma,val,154,OPEN
+synpic25628,abnormality,are there abnormalities in this x-ray,no,val,125,CLOSED
+synpic34446,abnormality,what is abnormal in the mri,pleomorphic adenoma,val,222,OPEN
+synpic28899,abnormality,does this image look normal,yes,val,395,CLOSED
+synpic28331,abnormality,does this image look normal,yes,val,395,CLOSED
+synpic55791,abnormality,what is abnormal in the mri,giant tumefactive perivascular spaces,val,519,OPEN
+synpic32867,abnormality,what is the primary abnormality in this image,fibrous dysplasia,val,242,OPEN
+synpic21201,abnormality,is there an abnormality in the x-ray,no,val,125,CLOSED
+synpic17412,abnormality,is this a normal ct scan,yes,val,395,CLOSED
+synpic24024,abnormality,is this image normal,yes,val,395,CLOSED
+synpic59540,abnormality,is there an abnormality in the image,yes,val,395,CLOSED
+synpic19169,abnormality,what is most alarming about this mri,nonossifying fibroma,val,141,OPEN
+synpic51878,abnormality,what is abnormal in the mri,crohn disease,val,1251,OPEN
+synpic25109,abnormality,what is abnormal in the mri,schizencephaly open-lip and closed-lip,val,641,OPEN
+synpic25451,abnormality,what is abnormal in the x-ray,pulmonary septic emboli,val,812,OPEN
+synpic17583,abnormality,what is the primary abnormality in this image,heterotopic ossification,val,1345,OPEN
+synpic100295,abnormality,what abnormality is seen in the image,renal disease in systemic lupus erythematosus sle versus c3 glomerulonephritis,val,806,OPEN
+synpic46243,abnormality,what is the primary abnormality in this image,adenocarcinoma of the lung,val,243,OPEN
+synpic38951,abnormality,what is abnormal in the x-ray,scaphoid fracture,val,1213,OPEN
+synpic17780,abnormality,what abnormality is seen in the image,intussusception,val,570,OPEN
+synpic28216,abnormality,what is most alarming about this gastrointestinal image,juvenile polyposis syndrome,val,1185,OPEN
+synpic31753,abnormality,what abnormality is seen in the image,aortic pseudoaneurysm,val,885,OPEN
+synpic38575,abnormality,what abnormality is seen in the image,unilateral megaloencephaly hemimegalencephaly,val,372,OPEN
+synpic41707,abnormality,what is the primary abnormality in this image,diffuse large cell lymphoma,val,1098,OPEN
+synpic56870,abnormality,what is the primary abnormality in this image,diastematomyelia,val,810,OPEN
+synpic21385,abnormality,what abnormality is seen in the image,open lip schizencephaly,val,899,OPEN
+synpic40779,abnormality,what is most alarming about this ct scan,pseudomembranous colitis,val,338,OPEN
+synpic50556,abnormality,what is abnormal in the ct scan,dva developmental venous anomaly venous angioma,val,422,OPEN
+synpic57239,abnormality,what is most alarming about this mri,intracranial epidermoid cyst,val,590,OPEN
+synpic54730,abnormality,what is most alarming about this ct scan,splenic artery aneurysm,val,9,OPEN
+synpic52631,abnormality,what is most alarming about this mri,toxoplasmosis,val,252,OPEN
+synpic28837,abnormality,what is abnormal in the ct scan,brain parenchymal hemorrhage contusion,val,635,OPEN
+synpic39709,abnormality,what is the primary abnormality in this image,hypothalamic glioma,val,145,OPEN
+synpic61238,abnormality,what abnormality is seen in the image,langerhan cell histiocytosis,val,163,OPEN
+synpic58532,abnormality,what abnormality is seen in the image,vestibular schwannoma acousticschwannoma,val,486,OPEN
+synpic45577,abnormality,what is most alarming about this ct scan,astrocytoma grading and subtypes,val,61,OPEN
+synpic39696,abnormality,what is abnormal in the mri,hypothalamic glioma,val,145,OPEN
+synpic23157,abnormality,what is the primary abnormality in this image,cavernous malformation cavernous angioma,val,348,OPEN
+synpic23631,abnormality,what abnormality is seen in the image,posterior cerebellar artery infarct,val,1137,OPEN
+synpic27319,abnormality,what abnormality is seen in the image,enchondroma,val,741,OPEN
+synpic51072,abnormality,what is abnormal in the mri,adult medulloblastoma,val,154,OPEN
+synpic53659,abnormality,what is the primary abnormality in this image,metastatic malignant melanoma,val,946,OPEN
+synpic60250,abnormality,what is most alarming about this mri,intracranial epidermoid cyst retroclival,val,614,OPEN
+synpic29645,abnormality,what abnormality is seen in the image,osteoid osteoma,val,72,OPEN
+synpic33806,abnormality,is there evidence of any abnormalities,yes,val,395,CLOSED
+synpic38953,abnormality,what is most alarming about this x-ray,scaphoid fracture,val,1213,OPEN
+synpic59407,abnormality,what abnormality is seen in the image,osteosarcoma,val,184,OPEN
+synpic53314,abnormality,what is most alarming about this mri,meningioma,val,137,OPEN
+synpic46876,abnormality,what is the primary abnormality in this image,empyema,val,380,OPEN
+synpic28188,abnormality,what is most alarming about this x-ray,heterotopic ossification,val,1345,OPEN
+synpic47573,abnormality,what is the primary abnormality in this image,pachygyria with schizencephaly,val,1270,OPEN
+synpic30260,abnormality,what abnormality is seen in the image,median arcuate ligament syndrome,val,161,OPEN
+synpic27046,abnormality,what is the primary abnormality in this image,unicameral bone cyst with pathologic fracture,val,1104,OPEN
+synpic20729,abnormality,what is abnormal in the ct scan,brain tumor and cancer protocols,val,541,OPEN
+synpic30248,abnormality,what is the primary abnormality in this image,aberrant right subclavian artery arsa,val,223,OPEN
+synpic53738,abnormality,what is the primary abnormality in this image,lumbar spinal stenosis,val,461,OPEN
+synpic17620,abnormality,what is most alarming about this ct scan,cholangiocarcinoma,val,617,OPEN
+synpic47017,abnormality,what is the primary abnormality in this image,non-hodgkin's lymphoma - b-cell lymphoma,val,44,OPEN
+synpic41314,abnormality,what is abnormal in the mri,vestibular acoustic schwannoma,val,420,OPEN
+synpic55403,abnormality,what is the primary abnormality in this image,cerebral arteriovenous malformation avm,val,371,OPEN
+synpic27730,abnormality,what is abnormal in the ultrasound,gastroschisis,val,79,OPEN
+synpic58682,abnormality,what abnormality is seen in the image,pyogenic discitis,val,1259,OPEN
+synpic57758,abnormality,what abnormality is seen in the image,fibro osseous lesions of the face and sinuses,val,775,OPEN
+synpic19225,abnormality,what is the primary abnormality in this image,obstructive hydrocephalus at level of sylvian aqueduct,val,727,OPEN
+synpic16880,abnormality,what abnormality is seen in the image,enchondroma,val,741,OPEN
+synpic21786,abnormality,what is abnormal in the ct scan,ossification of stylohyoid ligament,val,1480,OPEN
+synpic58912,abnormality,what abnormality is seen in the image,cerebral infarction,val,70,OPEN
+synpic35240,abnormality,what is the primary abnormality in this image,tuberous sclerosis,val,146,OPEN
+synpic33143,abnormality,what is the primary abnormality in this image,segond fracture with asssociated anterior cruciate ligament tear,val,287,OPEN
+synpic28204,abnormality,what is the primary abnormality in this image,pancreatic divisum,val,1066,OPEN
+synpic8182,abnormality,what abnormality is seen in the image,diverticulitis,val,32,OPEN
+synpic57188,abnormality,what abnormality is seen in the image,glioblastoma multiforme gbm,val,525,OPEN
+synpic43843,abnormality,what is most alarming about this angiogram,arteriovenous malformation avm,val,0,OPEN
+synpic36210,abnormality,what abnormality is seen in the image,odontogenic keratocyst of the mandible,val,42,OPEN
+synpic58495,abnormality,what is abnormal in the mri,glioblastoma multiforme,val,67,OPEN
+synpic40231,abnormality,what is abnormal in the mri,holoprosencephaly alobar,val,1429,OPEN
+synpic40782,abnormality,what is most alarming about this ct scan,malignant melanoma,val,1029,OPEN
+synpic53098,abnormality,what is the primary abnormality in this image,rosette forming glioneuronal tumor of the pineal gland,val,962,OPEN
+synpic31184,abnormality,what is the primary abnormality in this image,mature cystic teratoma,val,11,OPEN
+synpic56123,abnormality,what is most alarming about this x-ray,spinal osteochondroma,val,850,OPEN
+synpic59548,abnormality,what is the primary abnormality in this image,arteriovenous malformation,val,387,OPEN
+synpic21418,abnormality,what abnormality is seen in the image,invasive aspergillosis,val,729,OPEN
+synpic17814,abnormality,what abnormality is seen in the image,biliary leak,val,1272,OPEN
+synpic33236,abnormality,what is most alarming about this angiogram,raynaud's disease,val,840,OPEN
+synpic59945,abnormality,what is the primary abnormality in this image,posterior inferior cerebellar artery infarct,val,278,OPEN
+synpic16883,abnormality,what is most alarming about this mri,enchondroma,val,741,OPEN
+synpic43699,abnormality,what is abnormal in the mri,intracranial lipoma,val,296,OPEN
+synpic23151,abnormality,what is abnormal in the x-ray,malignant mesothelioma,val,498,OPEN
+synpic21020,abnormality,what is the primary abnormality in this image,glioblastoma multiforme,val,67,OPEN
+synpic52596,abnormality,what is abnormal in the x-ray,ankylosing spondylitis,val,15,OPEN
+synpic56901,abnormality,what is the primary abnormality in this image,spine epidural abscess,val,29,OPEN
+synpic38404,abnormality,what abnormality is seen in the image,lipomyelomeningocele with spinal cord syrinx,val,836,OPEN
+synpic26612,abnormality,what is abnormal in the angiogram,meningioma,val,137,OPEN
+synpic59005,abnormality,what is the primary abnormality in this image,pilocytic astrocytoma,val,277,OPEN
+synpic33913,abnormality,what abnormality is seen in the image,adenomyosis,val,561,OPEN
+synpic39557,abnormality,what is abnormal in the x-ray,pulmonary hamartoma,val,453,OPEN
+synpic13143,abnormality,what is abnormal in the mri,extraskeletal sarcoma,val,517,OPEN
+synpic24857,abnormality,what is the primary abnormality in this image,silent sinus syndrome,val,684,OPEN
+synpic37195,abnormality,what is the primary abnormality in this image,transitional cell carcinoma bladder,val,793,OPEN
+synpic47664,abnormality,what is most alarming about this mri,meningioma,val,137,OPEN
+synpic56027,abnormality,what is most alarming about this ct scan,cleidocranial dysostosis/dysplasia,val,195,OPEN
+synpic42084,abnormality,what is abnormal in the mri,intracranial epidermoid tumor,val,1080,OPEN
+synpic37433,abnormality,what is abnormal in the mri,oropharyngeal cancer,val,933,OPEN
+synpic34853,abnormality,what is the primary abnormality in this image,paradoxic embolization patent foramen ovale cerebral infarction,val,114,OPEN
+synpic60966,abnormality,what is most alarming about this x-ray,solitary pulmonary nodule - calcified granuloma,val,497,OPEN
+synpic25382,abnormality,what is abnormal in the pet scan,non-hodgkin’s lymphoma staging stage i nhl,val,204,OPEN
+synpic31678,abnormality,what is abnormal in the ct scan,clay shoveler's fracture,val,1425,OPEN
+synpic53994,abnormality,what is abnormal in the ct scan,brain death,val,493,OPEN
+synpic49072,abnormality,what is most alarming about this mri,metastatic disease from colonic carcinoma,val,213,OPEN
+synpic19651,abnormality,what is the primary abnormality in this image,tethered spinal cord with terminal spinal lipoma,val,1404,OPEN
+synpic53980,abnormality,what abnormality is seen in the image,left pica infarct,val,1026,OPEN
+synpic56608,abnormality,what abnormality is seen in the image,c-spine fracture,val,198,OPEN
+synpic48422,abnormality,what is most alarming about this mri,hypoxic/ischemic encephalopathy,val,340,OPEN
+synpic46419,abnormality,what abnormality is seen in the image,chloroma,val,811,OPEN
+synpic40915,abnormality,what is abnormal in the mri,intraventricular meningioma,val,358,OPEN
+synpic51818,abnormality,what is most alarming about this ct scan,squamous cell carcinoma,val,1097,OPEN
+synpic55854,abnormality,what is the primary abnormality in this image,intracranial hypotension,val,385,OPEN
+synpic29237,abnormality,what is abnormal in the x-ray,anterior dislocation right shoulder,val,267,OPEN
+synpic39193,abnormality,what is most alarming about this mri,femoral neck stress fractures,val,1134,OPEN
+synpic41564,abnormality,what is the primary abnormality in this image,cephalocele,val,676,OPEN
+synpic54169,abnormality,what is abnormal in the mri,dnet dysembryoplastic neuroepithelial tumor,val,209,OPEN
+synpic57312,abnormality,what is abnormal in the ct scan,osteogenesis imperfecta,val,294,OPEN
+synpic54627,abnormality,what is the primary abnormality in this image,juvenile pilocytic astrocytoma,val,456,OPEN
+synpic58790,abnormality,what abnormality is seen in the image,neuroblastoma,val,536,OPEN
+synpic58974,abnormality,what is most alarming about this mri,intravascular lymphomatosis,val,983,OPEN
+synpic35568,abnormality,what abnormality is seen in the image,bilateral subacute isodense subdural hematomas,val,383,OPEN
+synpic53835,abnormality,what is abnormal in the mri,coarctation of the aorta,val,164,OPEN
+synpic58008,abnormality,what abnormality is seen in the image,bilateral perched facets c5 c6 with spinal cord injury,val,1370,OPEN
+synpic15120,abnormality,what is the primary abnormality in this image,spine angiolipoma,val,881,OPEN
+synpic33695,abnormality,what is abnormal in the x-ray,femoral neck stress fractures,val,1134,OPEN
+synpic58544,abnormality,what abnormality is seen in the image,motor vehicle accident and multiple sclerosis exacerbation,val,462,OPEN
+synpic32825,abnormality,what is the primary abnormality in this image,hirschsprung's disease,val,480,OPEN
+synpic41613,abnormality,what abnormality is seen in the image,esophageal lipomatosis,val,975,OPEN
+synpic39569,abnormality,what abnormality is seen in the image,spiral salter-harris ii fracture,val,672,OPEN
+synpic24538,abnormality,what is the primary abnormality in this image,left ventricular aneurysm,val,1375,OPEN
+synpic34061,abnormality,what abnormality is seen in the image,acute appendicitis,val,63,OPEN
+synpic36110,abnormality,what abnormality is seen in the image,freiberg's infraction,val,1298,OPEN
+synpic43955,abnormality,what abnormality is seen in the image,lipoma arborescens,val,1111,OPEN
+synpic54434,abnormality,what is most alarming about this mri,glioblastoma multiforme,val,67,OPEN
+synpic39828,abnormality,what is abnormal in the mri,chondrosarcoma,val,396,OPEN
+synpic48021,abnormality,what abnormality is seen in the image,glioblastoma multiforme,val,67,OPEN
+synpic49129,abnormality,what is most alarming about this ct scan,renal cell carcinoma,val,928,OPEN
+synpic58742,abnormality,what is abnormal in the ct scan,brain meningioma,val,1191,OPEN
+synpic60223,abnormality,what is the primary abnormality in this image,anaplastic ganglioglioma who grade iii,val,890,OPEN
+synpic21041,abnormality,what is abnormal in the ct scan,pericardial cyst,val,821,OPEN
+synpic55071,abnormality,what abnormality is seen in the image,pituitary apoplexy,val,393,OPEN
+synpic41825,abnormality,what is the primary abnormality in this image,medial collateral ligament injuries,val,483,OPEN
+synpic55850,abnormality,what is most alarming about this mri,intracranial hypotension,val,385,OPEN
+synpic34276,abnormality,what is most alarming about this mri,os odontoideum,val,1078,OPEN
+synpic25384,abnormality,what is the primary abnormality in this image,schizencephaly,val,203,OPEN
+synpic43767,abnormality,what is most alarming about this ct scan,brain cerebral abscess,val,409,OPEN
+synpic23252,abnormality,what is most alarming about this ultrasound,subchorionic hemorrhage,val,1127,OPEN
+synpic53789,abnormality,what is the primary abnormality in this image,glioblastoma multiforme,val,67,OPEN
+synpic52468,abnormality,what is most alarming about this mri,sturge weber syndrome,val,259,OPEN
+synpic42135,abnormality,what is most alarming about this ct scan,hereditary multiple exostoses,val,599,OPEN
+synpic58184,abnormality,what is abnormal in the mri,intracranial venous thrombosis,val,467,OPEN
+synpic45466,abnormality,what is most alarming about this mri,tricholemmoma,val,1214,OPEN
+synpic46966,abnormality,what is abnormal in the x-ray,intrinsic sclerotic bone dysplasia likely osteopetrosis with fracture,val,724,OPEN
+synpic39618,abnormality,what is most alarming about this x-ray,osteochondroma,val,1036,OPEN
+synpic18359,abnormality,what is abnormal in the mri,plantar plate disruption,val,546,OPEN
+synpic56036,abnormality,what is abnormal in the mri,meningioma,val,137,OPEN
+synpic49116,abnormality,what abnormality is seen in the image,neuroblastoma,val,536,OPEN
+synpic53199,abnormality,what is abnormal in the ct scan,hypoxic/ischemic encephalopathy,val,340,OPEN
+synpic17902,abnormality,what abnormality is seen in the image,metastatic melanoma,val,929,OPEN
+synpic22952,abnormality,what is most alarming about this ct scan,ovarian torsion,val,707,OPEN
+synpic27433,abnormality,what is the primary abnormality in this image,vesicoureteral reflux,val,780,OPEN
+synpic42268,abnormality,what is the primary abnormality in this image,ewing sarcoma,val,883,OPEN
+synpic17527,abnormality,what is abnormal in the x-ray,sarcoidosis,val,19,OPEN
+synpic21687,abnormality,what abnormality is seen in the image,subclavian central venous catheter fracture and embolization,val,398,OPEN
+synpic35180,abnormality,what is most alarming about this ct scan,wilms tumor,val,1002,OPEN
+synpic18012,abnormality,what is the primary abnormality in this image,hypothalamic hamartoma,val,364,OPEN
+synpic33926,abnormality,what abnormality is seen in the image,horseshoe kidney,val,327,OPEN
+synpic28094,abnormality,is there an abnormality in the x-ray,yes,val,395,CLOSED
+synpic35947,abnormality,what is abnormal in the mri,schwannoma,val,139,OPEN
+synpic41793,abnormality,what is abnormal in the mri,right vertebral artery dissection lateral medullary syndrome wallenberg syndrome,val,414,OPEN
+synpic33107,abnormality,what is the primary abnormality in this image,epidermoid cyst,val,246,OPEN
+synpic47877,abnormality,what is the primary abnormality in this image,cavernous hemangioma and convexity meningioma,val,1323,OPEN
+synpic33489,abnormality,what is most alarming about this ct scan,diverticulitis,val,32,OPEN
+synpic50674,abnormality,what is the primary abnormality in this image,epidural spinal hematoma,val,110,OPEN
+synpic41751,abnormality,what is the primary abnormality in this image,spinal dural arteriovenous fistula,val,133,OPEN
+synpic21890,abnormality,what is the primary abnormality in this image,primary sclerosing cholangitis,val,958,OPEN
+synpic9384,abnormality,what is the primary abnormality in this image,aortic dissection,val,362,OPEN
+synpic31315,abnormality,what abnormality is seen in the image,bilateral axillary lymphadenopathy,val,1440,OPEN
+synpic25374,abnormality,what is the primary abnormality in this image,hemochromatosis hepatocellular carcinoma hcc,val,1415,OPEN
+synpic56615,abnormality,is there an abnormality in the ct scan,yes,val,395,CLOSED
+synpic55308,abnormality,what is most alarming about this ct scan,cirrhosis,val,1241,OPEN
+synpic45133,abnormality,what is abnormal in the ct scan,ruptured appendicitis,val,330,OPEN
+synpic54994,abnormality,what abnormality is seen in the image,nonketotic hyperglycemic hemichorea hemiballismus,val,969,OPEN
+synpic41341,abnormality,what abnormality is seen in the image,choanal atresia and congenital nasal airway obstruction,val,702,OPEN
+synpic54766,abnormality,what is abnormal in the mri,olfactory neuroblastoma esthesioneuroblastoma,val,1053,OPEN
+synpic22196,abnormality,what abnormality is seen in the image,renal tubular acidosis medullary nephrocalcinosis,val,828,OPEN
+synpic29772,abnormality,what is abnormal in the x-ray,osteomyelitis,val,138,OPEN
+synpic24487,abnormality,what is abnormal in the angiogram,dural av fistulae,val,471,OPEN
+synpic26246,abnormality,what is abnormal in the mri,adult medulloblastoma,val,154,OPEN
+synpic59337,abnormality,what abnormality is seen in the image,sequestration intralobar bronchopulmonary,val,468,OPEN
+synpic48212,abnormality,what is abnormal in the x-ray,pcp pneumonia pneumocystis jiroveci pneumonia,val,392,OPEN
+synpic57871,abnormality,what is most alarming about this angiogram,dural fistula avf,val,607,OPEN
+synpic55727,abnormality,what abnormality is seen in the image,vestibular schwannoma,val,119,OPEN
+synpic45246,abnormality,what is most alarming about this ct scan,fine needle aspiration of lung lesions,val,611,OPEN
+synpic57642,abnormality,what is most alarming about this ct scan,meningioma,val,137,OPEN
+synpic29565,abnormality,what is most alarming about this x-ray,adenocarcinoma of the lung,val,243,OPEN
+synpic51353,abnormality,what is most alarming about this mri,oligodendroglioma profile and who grade,val,960,OPEN
+synpic53785,abnormality,what is the primary abnormality in this image,glioblastoma multiforme,val,67,OPEN
+synpic53024,abnormality,what is abnormal in the ct scan,acute epidural hematoma,val,1131,OPEN
+synpic31104,abnormality,what abnormality is seen in the image,aspergillosis and the air-crescent sign,val,455,OPEN
+synpic49242,abnormality,what is abnormal in the mri,pleomorphic xanthoastrocytoma pxa,val,375,OPEN
+synpic58401,abnormality,what is most alarming about this angiogram,traumatic carotid-cavernous fistula,val,158,OPEN
+synpic44955,abnormality,what is the primary abnormality in this image,atypical teratoid/rhabdoid tumor,val,51,OPEN
+synpic19529,abnormality,what is the primary abnormality in this image,histoplasmosis,val,211,OPEN
+synpic28051,abnormality,what abnormality is seen in the image,mondini syndrome,val,282,OPEN
+synpic58993,abnormality,what is the primary abnormality in this image,arachnoid cyst,val,35,OPEN
+synpic43431,abnormality,is there an abnormality in the x-ray,yes,val,395,CLOSED
+synpic54830,abnormality,what abnormality is seen in the image,femoroacetabular impingement fai,val,103,OPEN
+synpic40845,abnormality,what is most alarming about this mri,meningioma,val,137,OPEN
+synpic35203,abnormality,what abnormality is seen in the image,neurocytoma central neurocytoma,val,112,OPEN
+synpic58951,abnormality,what is the primary abnormality in this image,carotid cavernous fistula,val,633,OPEN
+synpic51752,abnormality,what is abnormal in the ultrasound,hydrocephalus secondary to intraventricular hemorrhage . periventricular leukomalacia,val,102,OPEN
+synpic19716,abnormality,what is abnormal in the mri,neurocysticercosis,val,1456,OPEN
+synpic52918,abnormality,what abnormality is seen in the image,pseudotumor cerebri benign idiopathic intracranial hypertension,val,974,OPEN
+synpic21672,abnormality,what is most alarming about this ultrasound,cholangiocarcinoma,val,617,OPEN
+synpic27571,abnormality,what is most alarming about this ct scan,osteochondritis dissecans,val,361,OPEN
+synpic32632,abnormality,what is abnormal in the x-ray,avascular necrosis,val,269,OPEN
+synpic59939,abnormality,what is abnormal in the mri,posterior inferior cerebellar artery infarct,val,278,OPEN
+synpic22390,abnormality,what abnormality is seen in the image,primary lymphoma of bone,val,797,OPEN
+synpic28454,abnormality,what is the primary abnormality in this image,cavernous hemangioma,val,272,OPEN
+synpic38876,abnormality,what abnormality is seen in the image,multiple sclerosis,val,389,OPEN
+synpic15700,abnormality,what abnormality is seen in the image,takayasu arteritis,val,809,OPEN
+synpic21328,abnormality,what is the primary abnormality in this image,spine epidural abscess,val,29,OPEN
+synpic44995,abnormality,what is most alarming about this mri,posterior reversible encephalopathy syndrome pres,val,792,OPEN
+synpic26651,abnormality,what is the primary abnormality in this image,artificial cardiac valves,val,1447,OPEN
+synpic57862,abnormality,what abnormality is seen in the image,dural fistula avf,val,607,OPEN
+synpic43817,abnormality,what is most alarming about this mri,anterior cruciate ligament tear,val,1366,OPEN
+synpic24495,abnormality,what is abnormal in the x-ray,hodgkin's lymphoma,val,95,OPEN
+synpic22755,abnormality,what is the primary abnormality in this image,arachnoid cyst,val,35,OPEN
+synpic34123,abnormality,what is most alarming about this ct scan,transitional cell carcinoma,val,750,OPEN
+synpic22741,abnormality,what is abnormal in the mri,l5-s1 extruded disk fragment,val,591,OPEN
+synpic33102,abnormality,what is most alarming about this x-ray,hydropneumothorax,val,1173,OPEN
+synpic19933,abnormality,what is most alarming about this ct scan,pulmonary arteriovenous malformation,val,122,OPEN
+synpic40660,abnormality,what is the primary abnormality in this image,astrocytoma low-grade who 2 supratentorial,val,694,OPEN
+synpic31933,abnormality,what is most alarming about this ct scan,shaken baby syndrome,val,768,OPEN
+synpic55682,abnormality,what abnormality is seen in the image,depressed skull fractures,val,699,OPEN
+synpic53581,abnormality,what is the primary abnormality in this image,fat embolism with cerebral infarction,val,1094,OPEN
+synpic11771,abnormality,what is most alarming about this ct scan,subependymoma lateral ventricle,val,270,OPEN
+synpic31884,abnormality,what is the primary abnormality in this image,appendicitis,val,457,OPEN
+synpic36696,abnormality,what is the primary abnormality in this image,inguinal hernia involving bladder,val,446,OPEN
+synpic34794,abnormality,what is most alarming about this mri,dural metastases prostate cancer,val,1087,OPEN
+synpic49970,abnormality,what is the primary abnormality in this image,necrotizing pancreatitis,val,854,OPEN
+synpic47975,abnormality,what abnormality is seen in the image,colon cancer,val,75,OPEN
+synpic40559,abnormality,what is the primary abnormality in this image,ganglioneuroma,val,781,OPEN
+synpic57757,abnormality,what abnormality is seen in the image,fibro osseous lesions of the face and sinuses,val,775,OPEN
+synpic47342,abnormality,what is abnormal in the mri,arachnoid cyst,val,35,OPEN
+synpic48065,abnormality,what is the primary abnormality in this image,avm arterio-venous malformation vascular malformation,val,531,OPEN
+synpic51285,abnormality,what is most alarming about this mri,brain cerebral abscess,val,409,OPEN
+synpic36236,abnormality,what is most alarming about this x-ray,double aortic arch,val,664,OPEN
+synpic28587,abnormality,what is the primary abnormality in this image,graves disease,val,1100,OPEN
+synpic50366,abnormality,what is the primary abnormality in this image,amyloidosis,val,902,OPEN
+synpic28544,abnormality,what is abnormal in the gastrointestinal image,hiatal hernia,val,582,OPEN
+synpic37470,abnormality,what is the primary abnormality in this image,dieulafoy's lesion an angiographic finding of a gastric avm,val,202,OPEN
+synpic42788,abnormality,what abnormality is seen in the image,cystic meningioma atypical,val,190,OPEN
+synpic43455,abnormality,what is abnormal in the x-ray,poorly differentiated non-small cell lung carcinoma,val,188,OPEN
+synpic55545,abnormality,what is the primary abnormality in this image,carbon monoxide poisoning,val,565,OPEN
+synpic60065,abnormality,what is the primary abnormality in this image,osteoid osteoma,val,72,OPEN
+synpic18848,abnormality,what abnormality is seen in the image,ileal atresia,val,1149,OPEN
+synpic23766,abnormality,what is most alarming about this mri,moyamoya,val,1257,OPEN
+synpic50039,abnormality,what abnormality is seen in the image,epidural spinal hematoma,val,110,OPEN
+synpic40000,abnormality,what is abnormal in the mri,rathke cleft cyst,val,180,OPEN
+synpic54713,abnormality,what is most alarming about this ultrasound,papillary carcinoma of the thyroid,val,266,OPEN
+synpic45150,abnormality,what abnormality is seen in the image,meningioma,val,137,OPEN
+synpic47023,abnormality,what is abnormal in the mri,non-hodgkin's lymphoma - b-cell lymphoma,val,44,OPEN
+synpic53042,abnormality,what abnormality is seen in the image,pituitary apoplexy,val,393,OPEN
+synpic47751,abnormality,what is the primary abnormality in this image,arteriovenous malformation,val,387,OPEN
+synpic24235,abnormality,what is abnormal in the ultrasound,ectopic pregnancy,val,1,OPEN
+synpic14645,abnormality,what is most alarming about this mri,clear cell chondrosarcoma,val,1238,OPEN
+synpic58329,abnormality,what abnormality is seen in the image,avm arterio-venous malformation vascular malformation,val,531,OPEN
+synpic50775,abnormality,what is most alarming about this mri,spine epidural abscess,val,29,OPEN
+synpic18902,abnormality,what abnormality is seen in the image,paget disease of bone,val,312,OPEN
+synpic35648,abnormality,what is the primary abnormality in this image,peripheral vascular disease s/p atherectomy,val,1039,OPEN
+synpic26620,abnormality,what is most alarming about this angiogram,microcoil embolization of a lower gastrointestinal bleed,val,538,OPEN
+synpic48066,abnormality,what is the primary abnormality in this image,avm arterio-venous malformation vascular malformation,val,531,OPEN
+synpic39853,abnormality,what is abnormal in the ct scan,acute appendicitis,val,63,OPEN
+synpic27338,abnormality,what is most alarming about this mri,ewing's sarcoma,val,636,OPEN
+synpic37881,abnormality,what is abnormal in the mri,spinal cord astrocytoma,val,677,OPEN
+synpic33629,abnormality,what is abnormal in the mri,fat embolism brain,val,1310,OPEN
+synpic53877,abnormality,what abnormality is seen in the image,giant tumefactive perivascular spaces,val,519,OPEN
+synpic32126,abnormality,what abnormality is seen in the image,endograft leak,val,1261,OPEN
+synpic44926,abnormality,what abnormality is seen in the image,calcific tendinitis,val,512,OPEN
+synpic58300,abnormality,what is the primary abnormality in this image,synovial cyst,val,417,OPEN
+synpic25880,abnormality,what abnormality is seen in the image,hiatal hernia,val,582,OPEN
+synpic55813,abnormality,what abnormality is seen in the image,meningioma,val,137,OPEN
+synpic46847,abnormality,what abnormality is seen in the image,meningioma,val,137,OPEN
+synpic45382,abnormality,what abnormality is seen in the image,sarcoidosis,val,19,OPEN
+synpic55026,abnormality,what is most alarming about this mri,fibrous dysplasia,val,242,OPEN
+synpic21980,abnormality,what is most alarming about this x-ray,hydropneumothorax,val,1173,OPEN
+synpic48249,abnormality,what is the primary abnormality in this image,leptomeningeal carcinomatosis,val,221,OPEN
+synpic43447,abnormality,what is most alarming about this ct scan,rectovaginal fistula,val,405,OPEN
+synpic54675,abnormality,what abnormality is seen in the image,radiation necrosis,val,765,OPEN
+synpic29463,abnormality,what is most alarming about this mri,developmental venous anomaly,val,27,OPEN
+synpic47351,abnormality,what is abnormal in the ct scan,renal cell carcinoma,val,928,OPEN
+synpic51490,abnormality,what is most alarming about this ct scan,foregut cyst,val,438,OPEN
+synpic35880,abnormality,what is abnormal in the mri,juvenile pilocytic astrocytoma,val,456,OPEN
+synpic34552,abnormality,what abnormality is seen in the image,arteriovenous malformation avm,val,0,OPEN
+synpic57585,abnormality,what abnormality is seen in the image,opll - ossification of the posterior longitudinal ligament,val,473,OPEN
+synpic40947,abnormality,what is the primary abnormality in this image,cns prenchymal metastasis,val,315,OPEN
+synpic29098,abnormality,what is the primary abnormality in this image,infiltrating ductal carcinoma,val,38,OPEN
+synpic44506,abnormality,what is abnormal in the mri,dandy-walker malformation,val,934,OPEN
+synpic52364,abnormality,what is abnormal in the ct scan,cerebral aneurysm,val,160,OPEN
+synpic56114,abnormality,what abnormality is seen in the image,anoxic brain injury anoxia,val,554,OPEN
+synpic23560,abnormality,what abnormality is seen in the image,small bowel obstruction secondary to adhesions,val,1395,OPEN
+synpic34008,abnormality,what is most alarming about this ct scan,pulmonary thromboembolism,val,660,OPEN
+synpic52004,abnormality,what is the primary abnormality in this image,congenital hypoplasia of the internal carotid artery,val,990,OPEN
+synpic15401,abnormality,what abnormality is seen in the image,right aortic arch with aberrant left subclavian artery,val,1139,OPEN
+synpic57801,abnormality,what is the primary abnormality in this image,osteoma skull,val,924,OPEN
+synpic34632,abnormality,what abnormality is seen in the image,cervical nerve root avulsion,val,787,OPEN
+synpic45021,abnormality,what abnormality is seen in the image,carotid dissection,val,1284,OPEN
+synpic50410,abnormality,what is the primary abnormality in this image,brain cerebral abscess,val,409,OPEN
+synpic47178,abnormality,what is abnormal in the x-ray,chondroblastoma,val,1414,OPEN
+synpic40398,abnormality,what is the primary abnormality in this image,posterior reversible encephalopathy syndrome pres,val,792,OPEN
+synpic18681,abnormality,what abnormality is seen in the image,pituitary macroadenoma,val,345,OPEN
+synpic38551,abnormality,what abnormality is seen in the image,neurocytoma central neurocytoma,val,112,OPEN
+synpic36540,abnormality,what abnormality is seen in the image,hypothalamic hamartoma,val,364,OPEN
+synpic17203,abnormality,what is abnormal in the ct scan,hepatic hemangioma,val,427,OPEN
+synpic57633,abnormality,what is most alarming about this mri,schwannoma,val,139,OPEN
+synpic56511,abnormality,what abnormality is seen in the image,craniopharyngioma,val,73,OPEN
+synpic29500,abnormality,what is most alarming about this x-ray,achalasia,val,196,OPEN
+synpic48897,abnormality,what is abnormal in the mri,epidermoid cyst,val,246,OPEN
+synpic45196,abnormality,what abnormality is seen in the image,ossified posterior longitudinal ligament opll,val,839,OPEN
+synpic43524,abnormality,what is most alarming about this mri,choroid plexus neoplasm papilloma carcinoma,val,357,OPEN
+synpic59568,abnormality,what is abnormal in the mri,multiple sclerosis,val,389,OPEN
+synpic25647,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic35681,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic39641,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic35693,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic17419,modality,was iv contrast given to the patient,yes,val,395,CLOSED
+synpic32909,modality,what type of contrast did this patient have,iv,val,1494,OPEN
+synpic48040,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic48351,modality,what was this image taken with,xr - plain film,val,1482,OPEN
+synpic49503,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic18176,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic36498,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic26850,modality,is this a ct scan,no,val,125,CLOSED
+synpic19508,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic23496,modality,what imaging modality was used to take this image,mr - t1 weighted - noncontrast,val,1511,OPEN
+synpic25435,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic38894,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic25620,modality,what is the modality,xr - plain film,val,1482,OPEN
+synpic25634,modality,what imaging method was used,xr - plain film,val,1482,OPEN
+synpic36490,modality,what type of imaging is this,xr - plain film,val,1482,OPEN
+synpic40658,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic27614,modality,what kind of image is this,xr - plain film,val,1482,OPEN
+synpic26245,modality,is this a ct scan,no,val,125,CLOSED
+synpic25628,modality,what imaging method was used,xr - plain film,val,1482,OPEN
+synpic34446,modality,is this a ct scan,no,val,125,CLOSED
+synpic28899,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic28331,modality,what type of imaging does this represent,us - ultrasound,val,1481,OPEN
+synpic55791,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic32867,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic21201,modality,what was this image taken with,xr - plain film,val,1482,OPEN
+synpic20686,modality,what kind of image is this,mammograph,val,1487,OPEN
+synpic17412,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic53907,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic24024,modality,in what modality is this image taken,us - ultrasound,val,1481,OPEN
+synpic59540,modality,what type of imaging modality is shown,mr - adc map app diff coeff,val,1507,OPEN
+synpic19169,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic52424,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic52430,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic51878,modality,what type of imaging modality is shown,mr - other pulse seq .,val,1502,OPEN
+synpic25109,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic21186,modality,what kind of image is this,xr - plain film,val,1482,OPEN
+synpic52140,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic32893,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic25451,modality,with what modality is this image taken,xr - plain film,val,1482,OPEN
+synpic18101,modality,what imaging modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic18115,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic17583,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic100295,modality,what type of image modality is this,us - ultrasound,val,1481,OPEN
+synpic46243,modality,was the mri taken with contrast,yes,val,395,CLOSED
+synpic38951,modality,what imaging modality is used,xr - plain film,val,1482,OPEN
+synpic60290,modality,is this a ct scan,yes,val,395,CLOSED
+synpic17970,modality,what type of image modality is seen,xr - plain film,val,1482,OPEN
+synpic17780,modality,how was the image taken,be - barium enema,val,1512,OPEN
+synpic28216,modality,what imaging method was used,ugi - upper gi,val,1506,OPEN
+synpic31753,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic16475,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic38575,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic41707,modality,was the mri taken with contrast,yes,val,395,CLOSED
+synpic26950,modality,what imaging modality is seen here,bas - barium swallow,val,1508,OPEN
+synpic18921,modality,what type of image modality is seen,us - ultrasound,val,1481,OPEN
+synpic29054,modality,what imaging modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic56870,modality,is this a ct scan,no,val,125,CLOSED
+synpic21385,modality,what imaging modality was used to take this image,mr - other pulse seq .,val,1502,OPEN
+synpic57577,modality,how was this image taken,an - angiogram,val,1495,OPEN
+synpic40779,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic49985,modality,is this a ct scan,yes,val,395,CLOSED
+synpic50556,modality,is this a ct scan,yes,val,395,CLOSED
+synpic57239,modality,what imaging modality was used to take this image,mr - flair,val,1486,OPEN
+synpic54730,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic52631,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic28837,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic39709,modality,was the mri taken with contrast,yes,val,395,CLOSED
+synpic61204,modality,what imaging modality is seen here,xr - plain film,val,1482,OPEN
+synpic27523,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic61238,modality,is this a ct scan,yes,val,395,CLOSED
+synpic58532,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic45577,modality,is this an mri image,no,val,125,CLOSED
+synpic39696,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic23157,modality,what imaging modality was used to take this image,mr t2 gradientgrempgrswanswi,val,1518,OPEN
+synpic23631,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic27319,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic51072,modality,what imaging modality was used to take this image,mr - t1 weighted - noncontrast,val,1511,OPEN
+synpic53659,modality,is this an mri image,yes,val,395,CLOSED
+synpic58095,modality,is this an mri image,no,val,125,CLOSED
+synpic60250,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic40194,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic29645,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic31036,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic33806,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic27873,modality,with what modality is this image taken,mammograph,val,1487,OPEN
+synpic38953,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic49172,modality,what imaging modality is used to acquire this picture,mr - pdw proton density,val,1510,OPEN
+synpic59407,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic43477,modality,what type of imaging does this represent,xr - plain film,val,1482,OPEN
+synpic53314,modality,is this an mri image,yes,val,395,CLOSED
+synpic46876,modality,how is the image taken,xr - plain film,val,1482,OPEN
+synpic28188,modality,what type of imaging modality is seen in this image,xr - plain film,val,1482,OPEN
+synpic47573,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic30260,modality,what type of imaging is this,an - angiogram,val,1495,OPEN
+synpic45827,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic27046,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic20729,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic30248,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic53738,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic17620,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic47017,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic41314,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic55403,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic27730,modality,with what modality is this image taken,us - ultrasound,val,1481,OPEN
+synpic58682,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic50023,modality,what type of imaging does this represent,xr - plain film,val,1482,OPEN
+synpic57758,modality,is this an mri image,yes,val,395,CLOSED
+synpic19225,modality,how was the image taken,mr - flair,val,1486,OPEN
+synpic16880,modality,what type of image modality is seen,xr - plain film,val,1482,OPEN
+synpic48730,modality,is this an mri image,no,val,125,CLOSED
+synpic21786,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic25090,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic58912,modality,is this a ct scan,no,val,125,CLOSED
+synpic35240,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic33143,modality,what was this image taken with,mr - pdw proton density,val,1510,OPEN
+synpic28204,modality,what imaging modality was used to take this image,ct with gi and iv contrast,val,1503,OPEN
+synpic26201,modality,what was this image taken with,xr - plain film,val,1482,OPEN
+synpic41271,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic8182,modality,what is the modality,be - barium enema,val,1512,OPEN
+synpic57188,modality,was the mri taken with contrast,yes,val,395,CLOSED
+synpic43843,modality,what type of imaging modality is used to acquire the image,an - angiogram,val,1495,OPEN
+synpic36210,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic58495,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic40231,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic40782,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic53098,modality,is this a ct scan,no,val,125,CLOSED
+synpic31184,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic56123,modality,what imaging method was used,xr - plain film,val,1482,OPEN
+synpic59548,modality,is this a ct scan,yes,val,395,CLOSED
+synpic21418,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic17814,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic22893,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic33236,modality,what type of image modality is this,an - angiogram,val,1495,OPEN
+synpic59945,modality,what type of image modality is this,cta - ct angiography,val,1501,OPEN
+synpic27492,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic45565,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic16883,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic43699,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic23151,modality,what imaging modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic21020,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic52596,modality,what imaging modality is used,xr - plain film,val,1482,OPEN
+synpic56901,modality,is this a ct scan,no,val,125,CLOSED
+synpic38404,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic40597,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic26612,modality,what type of imaging was used,an - angiogram,val,1495,OPEN
+synpic100332,modality,what type of image modality is this,xr - plain film,val,1482,OPEN
+synpic26809,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic59005,modality,how was the image taken,mr - flair,val,1486,OPEN
+synpic43576,modality,what modality is used to take this image,xr - plain film,val,1482,OPEN
+synpic33913,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic23255,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic21442,modality,is this a ct scan,yes,val,395,CLOSED
+synpic38885,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic17866,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic24512,modality,is this a t1 weighted image,yes,val,395,CLOSED
+synpic24506,modality,is this a t1 weighted image,yes,val,395,CLOSED
+synpic39557,modality,what type of imaging modality is used to acquire the image,xr - plain film,val,1482,OPEN
+synpic33293,modality,what is the modality of this image,ugi - upper gi,val,1506,OPEN
+synpic13143,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic17319,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic33481,modality,what imaging modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic24857,modality,is this an mri image,no,val,125,CLOSED
+synpic37195,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic48796,modality,is this an mri image,no,val,125,CLOSED
+synpic47664,modality,what imaging modality was used to take this image,mr - t1 weighted with gd fat suppressed,val,1505,OPEN
+synpic56027,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic42084,modality,is this a contrast or noncontrast mri,noncontrast,val,1483,OPEN
+synpic37433,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic34853,modality,which image modality is this,mr - flair,val,1486,OPEN
+synpic32749,modality,is this a ct scan,yes,val,395,CLOSED
+synpic60966,modality,what type of imaging modality is seen in this image,xr - plain film,val,1482,OPEN
+synpic39967,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic27768,modality,how is the image taken,an - angiogram,val,1495,OPEN
+synpic30200,modality,what modality is shown,xr - plain film,val,1482,OPEN
+synpic31678,modality,is this an mri image,no,val,125,CLOSED
+synpic53994,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic49072,modality,what imaging modality was used to take this image,mr - t1 weighted - noncontrast,val,1511,OPEN
+synpic19651,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic53980,modality,is this a t1 weighted t2 weighted or flair image,flair,val,1504,OPEN
+synpic33084,modality,what type of imaging modality is shown,ct - gi iv contrast,val,1499,OPEN
+synpic56608,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic48422,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic46419,modality,is this a ct scan,no,val,125,CLOSED
+synpic17124,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic47049,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic40915,modality,is this a noncontrast mri,no,val,125,CLOSED
+synpic51818,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic32401,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic34070,modality,what type of imaging modality is shown,ct - gi iv contrast,val,1499,OPEN
+synpic55854,modality,what imaging modality is used,mra - mr angiography/venography,val,1496,OPEN
+synpic29237,modality,what modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic39193,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic33455,modality,what type of imaging modality is shown,us - ultrasound,val,1481,OPEN
+synpic41564,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic54169,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic57312,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic54627,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic58790,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic58974,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic35568,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic53835,modality,what is the modality of this image,mr - other pulse seq .,val,1502,OPEN
+synpic47855,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic58008,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic15120,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic33695,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic100545,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic58544,modality,what imaging modality was used to take this image,mr - flair,val,1486,OPEN
+synpic32825,modality,what is the modality,xr - plain film,val,1482,OPEN
+synpic41613,modality,is this an mri image,no,val,125,CLOSED
+synpic39569,modality,what type of imaging is this,xr - plain film,val,1482,OPEN
+synpic24538,modality,what type of imaging was used,xr - plain film,val,1482,OPEN
+synpic17121,modality,what type of imaging modality is seen in this image,xr - plain film,val,1482,OPEN
+synpic34061,modality,how was this image taken,us - ultrasound,val,1481,OPEN
+synpic36110,modality,with what modality is this image taken,xr - plain film,val,1482,OPEN
+synpic56814,modality,what is the modality,mr - pdw proton density,val,1510,OPEN
+synpic43955,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic54434,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic24879,modality,what type of contrast did this patient have,gi and iv,val,1489,OPEN
+synpic39828,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic48021,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic49129,modality,what type of contrast did this patient have,iv,val,1494,OPEN
+synpic58742,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic15871,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic58965,modality,is this a ct scan,no,val,125,CLOSED
+synpic39357,modality,what modality is shown,xr - plain film,val,1482,OPEN
+synpic60223,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic34841,modality,is this a ct scan,no,val,125,CLOSED
+synpic21041,modality,what type of contrast did this patient have,iv,val,1494,OPEN
+synpic55071,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic41825,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic55850,modality,was the mri taken with contrast,no,val,125,CLOSED
+synpic34276,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic25384,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic43767,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic23252,modality,what imaging modality is used,us - ultrasound,val,1481,OPEN
+synpic53789,modality,is this a noncontrast mri,no,val,125,CLOSED
+synpic52468,modality,is this a noncontrast mri,no,val,125,CLOSED
+synpic42135,modality,is this a ct scan,yes,val,395,CLOSED
+synpic58184,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic48397,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic45466,modality,what type of imaging is this,mr - stir,val,1514,OPEN
+synpic46966,modality,what modality is used to take this image,xr - plain film,val,1482,OPEN
+synpic39618,modality,what type of imaging was used,xr - plain film,val,1482,OPEN
+synpic18359,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic56036,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic49116,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic53199,modality,is this a ct scan,yes,val,395,CLOSED
+synpic38739,modality,how was the image taken,us - ultrasound,val,1481,OPEN
+synpic17902,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic22952,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic16361,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic19052,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic27433,modality,what type of imaging was used,us - ultrasound,val,1481,OPEN
+synpic54393,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic42268,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic17527,modality,what modality is shown,xr - plain film,val,1482,OPEN
+synpic43604,modality,what is the modality,us - ultrasound,val,1481,OPEN
+synpic50917,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic39751,modality,with what modality is this image taken,xr - plain film,val,1482,OPEN
+synpic21687,modality,what is the modality,xr - plain film,val,1482,OPEN
+synpic35180,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic18012,modality,is this image modality t1 t2 or flair,flair,val,1504,OPEN
+synpic16765,modality,what kind of image is this,xr - plain film,val,1482,OPEN
+synpic19640,modality,what modality is used to take this image,xr - plain film,val,1482,OPEN
+synpic54017,modality,is this a noncontrast mri,no,val,125,CLOSED
+synpic33926,modality,is this a ct scan,yes,val,395,CLOSED
+synpic59241,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic44990,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic28094,modality,what type of imaging modality is shown,xr - plain film,val,1482,OPEN
+synpic35947,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic41793,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic43423,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic16378,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic33107,modality,is this an mri image,yes,val,395,CLOSED
+synpic47877,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic22547,modality,is this a ct scan,yes,val,395,CLOSED
+synpic33489,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic20393,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic50674,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic46002,modality,is this a ct scan,yes,val,395,CLOSED
+synpic41751,modality,with what modality is this image taken,an - angiogram,val,1495,OPEN
+synpic21890,modality,what imaging modality was used,mr - other pulse seq .,val,1502,OPEN
+synpic9384,modality,what imaging modality is used to acquire this picture,xr - plain film,val,1482,OPEN
+synpic31315,modality,what imaging method was used,mammograph,val,1487,OPEN
+synpic38331,modality,what imaging modality is seen here,xr - plain film,val,1482,OPEN
+synpic25374,modality,what imaging modality was used,us - ultrasound,val,1481,OPEN
+synpic54214,modality,is this an mri image,no,val,125,CLOSED
+synpic56615,modality,what modality was used to take this image,cta - ct angiography,val,1501,OPEN
+synpic37599,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic55308,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic45133,modality,is this a ct scan,yes,val,395,CLOSED
+synpic54994,modality,is this an mri image,no,val,125,CLOSED
+synpic41341,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic54766,modality,what imaging modality was used to take this image,mr - t1 weighted with gd fat suppressed,val,1505,OPEN
+synpic22196,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic29772,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic18008,modality,what imaging modality is used,xr - plain film,val,1482,OPEN
+synpic30800,modality,what type of image modality is seen,mra - mr angiography/venography,val,1496,OPEN
+synpic41960,modality,what type of imaging modality is seen in this image,ugi - upper gi,val,1506,OPEN
+synpic28295,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic24487,modality,which image modality is this,an - angiogram,val,1495,OPEN
+synpic20187,modality,in what modality is this image taken,an - angiogram,val,1495,OPEN
+synpic26246,modality,is this a ct scan,no,val,125,CLOSED
+synpic16352,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic59337,modality,what type of contrast did this patient have,iv,val,1494,OPEN
+synpic48212,modality,how was the image taken,xr - plain film,val,1482,OPEN
+synpic57871,modality,how was the image taken,an - angiogram,val,1495,OPEN
+synpic34454,modality,what kind of image is this,bas - barium swallow,val,1508,OPEN
+synpic17299,modality,what kind of image is this,an - angiogram,val,1495,OPEN
+synpic28733,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic55727,modality,is this a t1 weighted image,yes,val,395,CLOSED
+synpic45246,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic57642,modality,is this an mri image,no,val,125,CLOSED
+synpic60171,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic29565,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic19303,modality,what type of imaging does this represent,mammograph,val,1487,OPEN
+synpic51353,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic26332,modality,was iv contrast given to the patient,yes,val,395,CLOSED
+synpic53785,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic53024,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic45861,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic31104,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic49242,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic41636,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic58401,modality,what type of imaging modality is seen in this image,an - angiogram,val,1495,OPEN
+synpic51357,modality,is this image modality t1 t2 or flair,flair,val,1504,OPEN
+synpic44955,modality,is this an mri image,yes,val,395,CLOSED
+synpic23070,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic47469,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic19529,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic46993,modality,is this a ct scan,no,val,125,CLOSED
+synpic28051,modality,is this a noncontrast ct,yes,val,395,CLOSED
+synpic58993,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic43431,modality,what is the modality,xr - plain film,val,1482,OPEN
+synpic20814,modality,what is the modality,mammograph,val,1487,OPEN
+synpic46549,modality,how is the image taken,be - barium enema,val,1512,OPEN
+synpic54830,modality,is this an mri image,no,val,125,CLOSED
+synpic40845,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic35203,modality,what imaging modality was used to take this image,mr - t1 weighted - noncontrast,val,1511,OPEN
+synpic58951,modality,what imaging modality is seen here,an - angiogram,val,1495,OPEN
+synpic51752,modality,what was this image taken with,us - ultrasound,val,1481,OPEN
+synpic19716,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic56001,modality,what imaging modality is used,an - angiogram,val,1495,OPEN
+synpic55508,modality,is this an mri image,no,val,125,CLOSED
+synpic32746,modality,what imaging modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic52918,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic21672,modality,what is the modality,us - ultrasound,val,1481,OPEN
+synpic51395,modality,is this a contrast or noncontrast mri,noncontrast,val,1483,OPEN
+synpic27571,modality,is this a ct scan,yes,val,395,CLOSED
+synpic50921,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic53596,modality,what type of image modality is seen,mr - other pulse seq .,val,1502,OPEN
+synpic32632,modality,in what modality is this image taken,xr - plain film,val,1482,OPEN
+synpic59939,modality,is this a ct scan,no,val,125,CLOSED
+synpic22390,modality,is this an mri image,no,val,125,CLOSED
+synpic28454,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic40703,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic38876,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic15700,modality,what type of image modality is seen,mra - mr angiography/venography,val,1496,OPEN
+synpic21328,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic44995,modality,which image modality is this,mr - flair,val,1486,OPEN
+synpic48836,modality,what type of imaging does this represent,us - ultrasound,val,1481,OPEN
+synpic26651,modality,which image modality is this,xr - plain film,val,1482,OPEN
+synpic57862,modality,what is the modality,cta - ct angiography,val,1501,OPEN
+synpic43817,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic24495,modality,how was this image taken,xr - plain film,val,1482,OPEN
+synpic22755,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic34123,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic22741,modality,what imaging modality was used to take this image,mr - t1 weighted - noncontrast,val,1511,OPEN
+synpic33102,modality,what kind of image is this,xr - plain film,val,1482,OPEN
+synpic47683,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic19933,modality,was the ct scan taken with contrast,yes,val,395,CLOSED
+synpic53152,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic40660,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic31933,modality,is this a ct scan,yes,val,395,CLOSED
+synpic24899,modality,what type of imaging does this represent,xr - plain film,val,1482,OPEN
+synpic55682,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic53581,modality,which image modality is this,xr - plain film,val,1482,OPEN
+synpic11771,modality,is this an mri image,no,val,125,CLOSED
+synpic31884,modality,what type of imaging modality is shown,ct - gi iv contrast,val,1499,OPEN
+synpic17664,modality,what modality is used to take this image,xr - plain film,val,1482,OPEN
+synpic36696,modality,was iv contrast given to the patient,yes,val,395,CLOSED
+synpic53727,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic42170,modality,what type of imaging was used,xr - plain film,val,1482,OPEN
+synpic34794,modality,is this image modality t1 t2 or flair,flair,val,1504,OPEN
+synpic49970,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic47975,modality,what modality was used to take this image,be - barium enema,val,1512,OPEN
+synpic40559,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic57757,modality,is this a noncontrast mri,no,val,125,CLOSED
+synpic21602,modality,what imaging modality is seen here,xr - plain film,val,1482,OPEN
+synpic47342,modality,what imaging modality was used to take this image,mr - flair,val,1486,OPEN
+synpic16119,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic48065,modality,how was the image taken,mr - flair,val,1486,OPEN
+synpic51285,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic36236,modality,what is the modality,xr - plain film,val,1482,OPEN
+synpic28587,modality,what type of imaging modality is shown,us - ultrasound,val,1481,OPEN
+synpic50366,modality,is this a contrast or noncontrast mri,noncontrast,val,1483,OPEN
+synpic28544,modality,what type of imaging is this,ugi - upper gi,val,1506,OPEN
+synpic37470,modality,what modality was used to take this image,an - angiogram,val,1495,OPEN
+synpic38742,modality,is this a noncontrast ct,no,val,125,CLOSED
+synpic42788,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic43455,modality,what type of imaging does this represent,xr - plain film,val,1482,OPEN
+synpic55545,modality,how was the image taken,mr - flair,val,1486,OPEN
+synpic38795,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic60065,modality,is this an mri image,yes,val,395,CLOSED
+synpic18848,modality,with what modality is this image taken,bas - barium swallow,val,1508,OPEN
+synpic49352,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic23766,modality,is this an mri image,yes,val,395,CLOSED
+synpic50039,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic40000,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic54713,modality,what type of image modality is this,us - ultrasound,val,1481,OPEN
+synpic45150,modality,is this a t1 weighted image,yes,val,395,CLOSED
+synpic47023,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic53042,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic47751,modality,what type of imaging is this,mra - mr angiography/venography,val,1496,OPEN
+synpic57218,modality,what type of imaging does this represent,mr - other pulse seq .,val,1502,OPEN
+synpic30532,modality,how is the image taken,xr - plain film,val,1482,OPEN
+synpic22136,modality,in what modality is this image taken,mammograph,val,1487,OPEN
+synpic24235,modality,in what modality is this image taken,us - ultrasound,val,1481,OPEN
+synpic48112,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic14645,modality,is this a contrast or noncontrast mri,noncontrast,val,1483,OPEN
+synpic58329,modality,what imaging modality is seen here,mra - mr angiography/venography,val,1496,OPEN
+synpic50775,modality,is this an mri image,yes,val,395,CLOSED
+synpic18902,modality,with what modality is this image taken,xr - plain film,val,1482,OPEN
+synpic35648,modality,what kind of scan is this,an - angiogram,val,1495,OPEN
+synpic26620,modality,what kind of image is this,an - angiogram,val,1495,OPEN
+synpic48066,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic39853,modality,was iv contrast given to the patient,yes,val,395,CLOSED
+synpic27338,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic37881,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic33629,modality,is this a t1 weighted t2 weighted or flair image,flair,val,1504,OPEN
+synpic53877,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic39463,modality,is this an mri image,yes,val,395,CLOSED
+synpic43481,modality,what type of imaging modality is used to acquire the image,us - ultrasound,val,1481,OPEN
+synpic32126,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic44926,modality,what imaging modality was used to take this image,mr - t2 weighted,val,1491,OPEN
+synpic58300,modality,what is the mr weighting in this image,t2,val,1484,OPEN
+synpic25880,modality,what type of image modality is seen,bas - barium swallow,val,1508,OPEN
+synpic16292,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic51136,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic49209,modality,what kind of scan is this,xr - plain film,val,1482,OPEN
+synpic55813,modality,how was the image taken,mr - flair,val,1486,OPEN
+synpic46847,modality,was the mri taken with contrast,yes,val,395,CLOSED
+synpic45382,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic55026,modality,is this a t1 weighted image,no,val,125,CLOSED
+synpic21980,modality,what modality is used to take this image,xr - plain film,val,1482,OPEN
+synpic48249,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic54648,modality,how was the image taken,an - angiogram,val,1495,OPEN
+synpic16484,modality,what was this image taken with,mammograph,val,1487,OPEN
+synpic43447,modality,what type of contrast did this patient have,gi and iv,val,1489,OPEN
+synpic54675,modality,what imaging modality was used to take this image,mr - t1 weighted with gadolinium,val,1492,OPEN
+synpic29463,modality,is this an mri image,yes,val,395,CLOSED
+synpic47351,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic17228,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic51490,modality,was iv contrast given to the patient,yes,val,395,CLOSED
+synpic35880,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic34552,modality,is this an mri image,yes,val,395,CLOSED
+synpic52166,modality,is this a ct scan,yes,val,395,CLOSED
+synpic21188,modality,what modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic57585,modality,how is the image taken,xr - plain film,val,1482,OPEN
+synpic40947,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic29098,modality,what type of image modality is seen,mammograph,val,1487,OPEN
+synpic44506,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic52364,modality,is this a contrast or noncontrast ct,contrast,val,1493,OPEN
+synpic57208,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic57578,modality,with what modality is this image taken,cta - ct angiography,val,1501,OPEN
+synpic58887,modality,what imaging modality was used to take this image,ct with iv contrast,val,1488,OPEN
+synpic50565,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic56114,modality,which image modality is this,mr - flair,val,1486,OPEN
+synpic23560,modality,is this a ct scan,yes,val,395,CLOSED
+synpic34008,modality,was gi contrast given to the patient,no,val,125,CLOSED
+synpic16083,modality,is this a contrast or noncontrast ct,noncontrast,val,1483,OPEN
+synpic52004,modality,what type of imaging modality is seen in this image,us - ultrasound,val,1481,OPEN
+synpic15401,modality,which image modality is this,xr - plain film,val,1482,OPEN
+synpic57801,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic25267,modality,what was this image taken with,ugi - upper gi,val,1506,OPEN
+synpic34632,modality,what imaging modality was used to take this image,ct noncontrast,val,1500,OPEN
+synpic45021,modality,what type of imaging modality is used to acquire the image,cta - ct angiography,val,1501,OPEN
+synpic50410,modality,what is the mr weighting in this image,t1,val,1490,OPEN
+synpic47178,modality,what is the modality of this image,xr - plain film,val,1482,OPEN
+synpic40398,modality,is this a t1 weighted t2 weighted or flair image,t2,val,1484,OPEN
+synpic18681,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic38551,modality,was the ct scan taken with contrast,no,val,125,CLOSED
+synpic36540,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic17203,modality,what type of imaging modality is shown,ct with contrast iv,val,1485,OPEN
+synpic57633,modality,is this a t2 weighted image,no,val,125,CLOSED
+synpic56511,modality,is this a t1 weighted t2 weighted or flair image,t1,val,1490,OPEN
+synpic29500,modality,what modality was used to take this image,xr - plain film,val,1482,OPEN
+synpic48897,modality,is this image modality t1 t2 or flair,t2,val,1484,OPEN
+synpic45196,modality,is this an mri image,yes,val,395,CLOSED
+synpic45828,modality,is this a noncontrast mri,yes,val,395,CLOSED
+synpic60458,modality,what type of imaging is this,xr - plain film,val,1482,OPEN
+synpic43524,modality,is this a t1 weighted image,yes,val,395,CLOSED
+synpic59568,modality,is this a t1 weighted t2 weighted or flair image,flair,val,1504,OPEN
+synpic48459,modality,is this a contrast or noncontrast mri,contrast,val,1493,OPEN
+synpic25647,plane,what plane is this x-ray in,ap,val,1527,OPEN
+synpic35681,plane,what plane is demonstrated,coronal,val,1525,OPEN
+synpic39641,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic35693,plane,in what plane is this mri taken,sagittal,val,1528,OPEN
+synpic17419,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic32909,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic48040,plane,what plane was used in this ct scan,axial,val,1523,OPEN
+synpic48351,plane,what imaging plane is depicted here,frontal,val,1534,OPEN
+synpic49503,plane,what plane is this,coronal,val,1525,OPEN
+synpic18176,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic36498,plane,which plane is the image shown in,pa,val,1530,OPEN
+synpic26850,plane,what image plane is this,sagittal,val,1528,OPEN
+synpic19508,plane,what plane was used,axial,val,1523,OPEN
+synpic23496,plane,what is the plane of the image,coronal,val,1525,OPEN
+synpic25435,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic38894,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic25620,plane,what plane is the image acquired in,frontal,val,1534,OPEN
+synpic25634,plane,in what plane is this x-ray captured,lateral,val,1526,OPEN
+synpic36490,plane,what imaging plane is depicted here,lateral,val,1526,OPEN
+synpic40658,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic27614,plane,what plane is this x-ray in,lateral,val,1526,OPEN
+synpic26245,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic25628,plane,what image plane is this,ap,val,1527,OPEN
+synpic34446,plane,what image plane is this,coronal,val,1525,OPEN
+synpic28899,plane,which plane is this image taken,lateral,val,1526,OPEN
+synpic28331,plane,what plane is this,sagittal,val,1528,OPEN
+synpic55791,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic32867,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic21201,plane,what plane is demonstrated,pa,val,1530,OPEN
+synpic20686,plane,what plane is seen,mammo - mlo,val,1529,OPEN
+synpic17412,plane,what plane is this,axial,val,1523,OPEN
+synpic53907,plane,what is the plane of the ct scan,coronal,val,1525,OPEN
+synpic24024,plane,what plane is the image acquired in,sagittal,val,1528,OPEN
+synpic59540,plane,in which plane is the mri displayed,axial,val,1523,OPEN
+synpic19169,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic52424,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic52430,plane,which plane is this image in,coronal,val,1525,OPEN
+synpic51878,plane,what imaging plane is depicted here,coronal,val,1525,OPEN
+synpic25109,plane,which plane is the image shown in,coronal,val,1525,OPEN
+synpic21186,plane,what plane is seen,lateral,val,1526,OPEN
+synpic52140,plane,which plane is this image in,axial,val,1523,OPEN
+synpic32893,plane,what is the plane of this x-ray,ap,val,1527,OPEN
+synpic25451,plane,in what plane is this x-ray,lateral,val,1526,OPEN
+synpic18101,plane,which plane is the image shown in,frontal,val,1534,OPEN
+synpic18115,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic17583,plane,what is the plane of the x-ray,frontal,val,1534,OPEN
+synpic100295,plane,in which plane is the ultrasound displayed,sagittal,val,1528,OPEN
+synpic46243,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic38951,plane,what plane is seen,pa,val,1530,OPEN
+synpic60290,plane,what is the plane of this ct scan,coronal,val,1525,OPEN
+synpic17970,plane,what is the plane of the image,ap,val,1527,OPEN
+synpic17780,plane,in what plane is this gastrointestinal image taken,frontal,val,1534,OPEN
+synpic28216,plane,what plane was used,pa,val,1530,OPEN
+synpic31753,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic16475,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic38575,plane,in what plane was this image taken,sagittal,val,1528,OPEN
+synpic41707,plane,what plane is the image acquired in,sagittal,val,1528,OPEN
+synpic26950,plane,which plane is the image shown in,oblique,val,1535,OPEN
+synpic18921,plane,what plane is this ultrasound in,transverse,val,1532,OPEN
+synpic29054,plane,in what plane is this image oriented,ap,val,1527,OPEN
+synpic56870,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic21385,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic57577,plane,what plane is demonstrated,oblique,val,1535,OPEN
+synpic40779,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic49985,plane,what plane is this ct scan in,sagittal,val,1528,OPEN
+synpic50556,plane,what plane was used,axial,val,1523,OPEN
+synpic57239,plane,which plane is the image shown in,sagittal,val,1528,OPEN
+synpic54730,plane,in what plane is this ct scan,coronal,val,1525,OPEN
+synpic52631,plane,what is the plane of this mri,axial,val,1523,OPEN
+synpic28837,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic39709,plane,what is the plane of the mri,coronal,val,1525,OPEN
+synpic61204,plane,in what plane is this image oriented,oblique,val,1535,OPEN
+synpic27523,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic61238,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic58532,plane,what plane was used in this mri,coronal,val,1525,OPEN
+synpic45577,plane,what plane is this,axial,val,1523,OPEN
+synpic39696,plane,what is the plane of the image,sagittal,val,1528,OPEN
+synpic23157,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic23631,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic27319,plane,which plane is this image taken,ap,val,1527,OPEN
+synpic51072,plane,what image plane is this,sagittal,val,1528,OPEN
+synpic53659,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic58095,plane,what plane was used,axial,val,1523,OPEN
+synpic60250,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic40194,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic29645,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic31036,plane,what is the plane,axial,val,1523,OPEN
+synpic33806,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic27873,plane,which plane is this image taken,mammo - mlo,val,1529,OPEN
+synpic38953,plane,what is the plane,lateral,val,1526,OPEN
+synpic49172,plane,what plane is this,sagittal,val,1528,OPEN
+synpic59407,plane,in what plane is this mri,coronal,val,1525,OPEN
+synpic43477,plane,what plane is seen,ap,val,1527,OPEN
+synpic53314,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic46876,plane,what is the plane,lateral,val,1526,OPEN
+synpic28188,plane,what plane is seen,ap,val,1527,OPEN
+synpic47573,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic30260,plane,in what plane is this angiogram,lateral,val,1526,OPEN
+synpic45827,plane,what plane was used in this mri,axial,val,1523,OPEN
+synpic27046,plane,which plane is this image in,sagittal,val,1528,OPEN
+synpic20729,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic30248,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic53738,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic17620,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic47017,plane,what is the plane,axial,val,1523,OPEN
+synpic41314,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic55403,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic27730,plane,what plane is this film,transverse,val,1532,OPEN
+synpic58682,plane,which plane is the image taken,sagittal,val,1528,OPEN
+synpic50023,plane,in what plane is this image taken,pa,val,1530,OPEN
+synpic57758,plane,what is the plane of the image,coronal,val,1525,OPEN
+synpic19225,plane,which plane is the image taken,coronal,val,1525,OPEN
+synpic16880,plane,what imaging plane is depicted here,ap,val,1527,OPEN
+synpic48730,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic21786,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic25090,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic58912,plane,what is the plane of this mri,axial,val,1523,OPEN
+synpic35240,plane,what plane was used,axial,val,1523,OPEN
+synpic33143,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic28204,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic26201,plane,what plane is the image acquired in,lateral,val,1526,OPEN
+synpic41271,plane,which plane is this image taken,lateral,val,1526,OPEN
+synpic8182,plane,what image plane is this,frontal,val,1534,OPEN
+synpic57188,plane,what plane is seen,coronal,val,1525,OPEN
+synpic43843,plane,what plane was used in this angiogram,lateral,val,1526,OPEN
+synpic36210,plane,what is the plane of the image,coronal,val,1525,OPEN
+synpic58495,plane,in which plane is the mri displayed,axial,val,1523,OPEN
+synpic40231,plane,in what plane is this mri,coronal,val,1525,OPEN
+synpic40782,plane,in what plane is this ct scan captured,sagittal,val,1528,OPEN
+synpic53098,plane,in what plane is this mri captured,axial,val,1523,OPEN
+synpic31184,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic56123,plane,in what plane is this image taken,ap,val,1527,OPEN
+synpic59548,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic21418,plane,what plane is this,axial,val,1523,OPEN
+synpic17814,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic22893,plane,in what plane is this ct scan captured,axial,val,1523,OPEN
+synpic33236,plane,which plane is this image in,ap,val,1527,OPEN
+synpic59945,plane,what is the plane,coronal,val,1525,OPEN
+synpic27492,plane,what is the plane,coronal,val,1525,OPEN
+synpic45565,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic16883,plane,what imaging plane is depicted here,ap,val,1527,OPEN
+synpic43699,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic23151,plane,which plane is the image taken,frontal,val,1534,OPEN
+synpic21020,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic52596,plane,what is the plane of the x-ray,ap,val,1527,OPEN
+synpic56901,plane,what is the plane of the mri,sagittal,val,1528,OPEN
+synpic38404,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic40597,plane,what plane was used,axial,val,1523,OPEN
+synpic26612,plane,what plane is the image acquired in,ap,val,1527,OPEN
+synpic100332,plane,what is the plane of this x-ray,ap,val,1527,OPEN
+synpic26809,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic59005,plane,in what plane is this image oriented,axial,val,1523,OPEN
+synpic43576,plane,what is the plane,pa,val,1530,OPEN
+synpic33913,plane,what plane was used,sagittal,val,1528,OPEN
+synpic23255,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic21442,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic38885,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic17866,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic24512,plane,which plane is the image shown in,coronal,val,1525,OPEN
+synpic24506,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic39557,plane,in what plane is this x-ray,pa,val,1530,OPEN
+synpic33293,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic13143,plane,what is the plane,axial,val,1523,OPEN
+synpic17319,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic33481,plane,what is the plane of this x-ray,pa,val,1530,OPEN
+synpic24857,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic37195,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic48796,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic47664,plane,what is the plane,axial,val,1523,OPEN
+synpic56027,plane,in what plane is this image oriented,3d reconstruction,val,1536,OPEN
+synpic42084,plane,what image plane is this,axial,val,1523,OPEN
+synpic37433,plane,what plane is this,axial,val,1523,OPEN
+synpic34853,plane,what plane is this mri in,axial,val,1523,OPEN
+synpic32749,plane,what is the plane of the ct scan,sagittal,val,1528,OPEN
+synpic60966,plane,in what plane is this image oriented,lateral,val,1526,OPEN
+synpic25382,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic39967,plane,in what plane is this mri taken,axial,val,1523,OPEN
+synpic27768,plane,in what plane was this image taken,ap,val,1527,OPEN
+synpic30200,plane,what is the plane of the x-ray,lateral,val,1526,OPEN
+synpic31678,plane,what plane was used in this ct scan,axial,val,1523,OPEN
+synpic53994,plane,what plane was used in this ct scan,axial,val,1523,OPEN
+synpic49072,plane,what plane is this film,axial,val,1523,OPEN
+synpic19651,plane,which plane is this mri taken in,axial,val,1523,OPEN
+synpic53980,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic33084,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic56608,plane,in which plane is the ct scan displayed,sagittal,val,1528,OPEN
+synpic48422,plane,in which plane is the mri displayed,sagittal,val,1528,OPEN
+synpic46419,plane,what plane was used in this mri,coronal,val,1525,OPEN
+synpic17124,plane,what is the plane of the image,ap,val,1527,OPEN
+synpic47049,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic40915,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic51818,plane,what is the plane of this ct scan,axial,val,1523,OPEN
+synpic32401,plane,in what plane is this x-ray taken,lateral,val,1526,OPEN
+synpic34070,plane,what plane was used in this ct scan,axial,val,1523,OPEN
+synpic55854,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic29237,plane,in what plane is this image taken,frontal,val,1534,OPEN
+synpic39193,plane,what plane was used in this mri,coronal,val,1525,OPEN
+synpic33455,plane,in what plane is this ultrasound,transverse,val,1532,OPEN
+synpic41564,plane,what is the plane of this mri,axial,val,1523,OPEN
+synpic54169,plane,in what plane is this image oriented,coronal,val,1525,OPEN
+synpic57312,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic54627,plane,what plane was used in this mri,coronal,val,1525,OPEN
+synpic58790,plane,which plane is this image in,axial,val,1523,OPEN
+synpic58974,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic35568,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic53835,plane,in what plane is this mri taken,sagittal,val,1528,OPEN
+synpic47855,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic58008,plane,what is the plane of this ct scan,axial,val,1523,OPEN
+synpic15120,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic33695,plane,which plane is this image taken,frontal,val,1534,OPEN
+synpic100545,plane,what image plane is this,oblique,val,1535,OPEN
+synpic58544,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic32825,plane,what plane is demonstrated,lateral,val,1526,OPEN
+synpic41613,plane,what plane is this,axial,val,1523,OPEN
+synpic39569,plane,in what plane is this image taken,oblique,val,1535,OPEN
+synpic24538,plane,in what plane is this x-ray captured,pa,val,1530,OPEN
+synpic17121,plane,what is the plane,mammo - mag cc,val,1533,OPEN
+synpic34061,plane,which plane is the image shown in,sagittal,val,1528,OPEN
+synpic36110,plane,what plane was used in this x-ray,oblique,val,1535,OPEN
+synpic56814,plane,in which plane is the mri displayed,sagittal,val,1528,OPEN
+synpic43955,plane,what plane is this,axial,val,1523,OPEN
+synpic54434,plane,which plane is the image taken,axial,val,1523,OPEN
+synpic24879,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic39828,plane,which plane is this image in,axial,val,1523,OPEN
+synpic48021,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic49129,plane,what plane is seen,axial,val,1523,OPEN
+synpic58742,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic15871,plane,what is the plane,axial,val,1523,OPEN
+synpic58965,plane,what plane was used,axial,val,1523,OPEN
+synpic39357,plane,what plane is the image acquired in,pa,val,1530,OPEN
+synpic60223,plane,what plane is this mri in,axial,val,1523,OPEN
+synpic34841,plane,what plane is seen,axial,val,1523,OPEN
+synpic21041,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic55071,plane,what is the plane of the image,coronal,val,1525,OPEN
+synpic41825,plane,in which plane is the mri displayed,sagittal,val,1528,OPEN
+synpic55850,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic34276,plane,what is the plane of this mri,sagittal,val,1528,OPEN
+synpic25384,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic43767,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic23252,plane,which plane is this ultrasound taken in,sagittal,val,1528,OPEN
+synpic53789,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic52468,plane,what plane is this,coronal,val,1525,OPEN
+synpic42135,plane,in what plane is this ct scan,coronal,val,1525,OPEN
+synpic58184,plane,what plane is demonstrated,coronal,val,1525,OPEN
+synpic48397,plane,what plane is this mri in,coronal,val,1525,OPEN
+synpic45466,plane,what is the plane,axial,val,1523,OPEN
+synpic46966,plane,what plane is seen,ap,val,1527,OPEN
+synpic39618,plane,what imaging plane is depicted here,ap,val,1527,OPEN
+synpic18359,plane,which plane is the image shown in,sagittal,val,1528,OPEN
+synpic56036,plane,in which plane is the mri displayed,coronal,val,1525,OPEN
+synpic49116,plane,in what plane is this image oriented,sagittal,val,1528,OPEN
+synpic53199,plane,what plane was used in this ct scan,axial,val,1523,OPEN
+synpic38739,plane,what plane is demonstrated,transverse,val,1532,OPEN
+synpic17902,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic22952,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic16361,plane,in what plane is this image taken,coronal,val,1525,OPEN
+synpic19052,plane,which plane is this image in,axial,val,1523,OPEN
+synpic27433,plane,which plane is the image shown in,longitudinal,val,1524,OPEN
+synpic54393,plane,what is the plane of this mri,axial,val,1523,OPEN
+synpic42268,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic17527,plane,what imaging plane is depicted here,frontal,val,1534,OPEN
+synpic43604,plane,which plane is this image taken,transverse,val,1532,OPEN
+synpic50917,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic39751,plane,which plane is the image shown in,ap,val,1527,OPEN
+synpic21687,plane,which plane is the image taken,frontal,val,1534,OPEN
+synpic35180,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic18012,plane,in what plane was this image taken,coronal,val,1525,OPEN
+synpic16765,plane,in what plane is this image taken,frontal,val,1534,OPEN
+synpic19640,plane,in what plane is this image taken,frontal,val,1534,OPEN
+synpic54017,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic33926,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic59241,plane,which plane is the image shown in,coronal,val,1525,OPEN
+synpic44990,plane,in which plane is the mri displayed,axial,val,1523,OPEN
+synpic28094,plane,what is the plane of the image,ap,val,1527,OPEN
+synpic35947,plane,what is the plane of this mri,sagittal,val,1528,OPEN
+synpic41793,plane,what plane is this,sagittal,val,1528,OPEN
+synpic43423,plane,what plane is this,sagittal,val,1528,OPEN
+synpic16378,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic33107,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic47877,plane,what plane is this mri in,axial,val,1523,OPEN
+synpic22547,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic33489,plane,in what plane is this ct scan captured,axial,val,1523,OPEN
+synpic20393,plane,which plane is the image taken,oblique,val,1535,OPEN
+synpic50674,plane,in what plane is this mri captured,sagittal,val,1528,OPEN
+synpic46002,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic41751,plane,which plane is this image in,oblique,val,1535,OPEN
+synpic21890,plane,what plane is this mri in,frontal,val,1534,OPEN
+synpic9384,plane,what imaging plane is depicted here,lateral,val,1526,OPEN
+synpic31315,plane,what plane is the image acquired in,mammo - mlo,val,1529,OPEN
+synpic38331,plane,what imaging plane is depicted here,lateral,val,1526,OPEN
+synpic25374,plane,in what plane is this ultrasound captured,transverse,val,1532,OPEN
+synpic54214,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic56615,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic37599,plane,which plane is the image taken,axial,val,1523,OPEN
+synpic55308,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic45133,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic54994,plane,what plane was used,axial,val,1523,OPEN
+synpic41341,plane,in what plane is this image oriented,coronal,val,1525,OPEN
+synpic54766,plane,what is the plane of the image,sagittal,val,1528,OPEN
+synpic22196,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic29772,plane,what plane is seen,ap,val,1527,OPEN
+synpic18008,plane,what is the plane of this x-ray,ap,val,1527,OPEN
+synpic30800,plane,in what plane is this image taken,sagittal,val,1528,OPEN
+synpic41960,plane,in what plane is this image taken,ap,val,1527,OPEN
+synpic28295,plane,what plane is the image acquired in,coronal,val,1525,OPEN
+synpic24487,plane,what is the plane of this angiogram,lateral,val,1526,OPEN
+synpic20187,plane,in what plane is this angiogram,pa,val,1530,OPEN
+synpic26246,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic16352,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic59337,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic48212,plane,what plane is demonstrated,frontal,val,1534,OPEN
+synpic57871,plane,what is the plane,ap,val,1527,OPEN
+synpic34454,plane,what plane is this film,pa,val,1530,OPEN
+synpic17299,plane,in what plane is this image oriented,pa,val,1530,OPEN
+synpic28733,plane,which plane is this image in,axial,val,1523,OPEN
+synpic55727,plane,what plane is this mri in,sagittal,val,1528,OPEN
+synpic45246,plane,in which plane is the ct scan displayed,axial,val,1523,OPEN
+synpic57642,plane,what plane is this film,axial,val,1523,OPEN
+synpic60171,plane,in what plane was this image taken,coronal,val,1525,OPEN
+synpic29565,plane,what plane was used,pa,val,1530,OPEN
+synpic51353,plane,what is the plane of the mri,coronal,val,1525,OPEN
+synpic26332,plane,what image plane is this,axial,val,1523,OPEN
+synpic53785,plane,what is the plane of the mri,axial,val,1523,OPEN
+synpic53024,plane,what is the plane,axial,val,1523,OPEN
+synpic45861,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic31104,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic49242,plane,what plane was used in this mri,sagittal,val,1528,OPEN
+synpic41636,plane,what plane is this film,coronal,val,1525,OPEN
+synpic58401,plane,which plane is this image taken,ap,val,1527,OPEN
+synpic51357,plane,what plane is seen,axial,val,1523,OPEN
+synpic44955,plane,in what plane is this mri captured,sagittal,val,1528,OPEN
+synpic23070,plane,what plane is seen,axial,val,1523,OPEN
+synpic47469,plane,in what plane is this ct scan taken,axial,val,1523,OPEN
+synpic19529,plane,what plane is this,axial,val,1523,OPEN
+synpic46993,plane,what is the plane,sagittal,val,1528,OPEN
+synpic28051,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic58993,plane,what plane is this,coronal,val,1525,OPEN
+synpic43431,plane,what is the plane,ap,val,1527,OPEN
+synpic20814,plane,what is the plane,mammo - mlo,val,1529,OPEN
+synpic46549,plane,in what plane is this image taken,ap,val,1527,OPEN
+synpic54830,plane,in what plane was this image taken,lateral,val,1526,OPEN
+synpic40845,plane,what is the plane of the image,coronal,val,1525,OPEN
+synpic35203,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic58951,plane,what plane is this angiogram in,lateral,val,1526,OPEN
+synpic51752,plane,in what plane is this image oriented,coronal,val,1525,OPEN
+synpic19716,plane,in what plane is this image oriented,sagittal,val,1528,OPEN
+synpic56001,plane,what is the plane,oblique,val,1535,OPEN
+synpic55508,plane,what is the plane of this ct scan,sagittal,val,1528,OPEN
+synpic32746,plane,in what plane was this image taken,frontal,val,1534,OPEN
+synpic52918,plane,what plane was used,sagittal,val,1528,OPEN
+synpic21672,plane,what plane was used in this ultrasound,sagittal,val,1528,OPEN
+synpic51395,plane,what is the plane of the mri,sagittal,val,1528,OPEN
+synpic27571,plane,what is the plane of this ct scan,coronal,val,1525,OPEN
+synpic50921,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic53596,plane,in what plane is this mri,oblique,val,1535,OPEN
+synpic32632,plane,what plane is this,lateral,val,1526,OPEN
+synpic59939,plane,what plane is seen,axial,val,1523,OPEN
+synpic22390,plane,what plane is seen,axial,val,1523,OPEN
+synpic28454,plane,what plane is this,axial,val,1523,OPEN
+synpic40703,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic38876,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic15700,plane,what plane is demonstrated,coronal,val,1525,OPEN
+synpic21328,plane,what plane is this film,axial,val,1523,OPEN
+synpic44995,plane,which plane is the image taken,axial,val,1523,OPEN
+synpic48836,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic26651,plane,in what plane is this image taken,pa,val,1530,OPEN
+synpic57862,plane,what is the plane of the image,3d reconstruction,val,1536,OPEN
+synpic43817,plane,which plane is the image taken,sagittal,val,1528,OPEN
+synpic24495,plane,in what plane is this x-ray taken,ap,val,1527,OPEN
+synpic22755,plane,what is the plane,axial,val,1523,OPEN
+synpic34123,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic22741,plane,in what plane is this image oriented,sagittal,val,1528,OPEN
+synpic33102,plane,in what plane was this image taken,pa,val,1530,OPEN
+synpic47683,plane,what is the plane of this ct scan,axial,val,1523,OPEN
+synpic19933,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic53152,plane,which plane is this image in,coronal,val,1525,OPEN
+synpic40660,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic31933,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic24899,plane,in what plane is this image taken,frontal,val,1534,OPEN
+synpic55682,plane,in what plane is this ct scan captured,axial,val,1523,OPEN
+synpic53581,plane,what plane was used in this x-ray,ap,val,1527,OPEN
+synpic11771,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic31884,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic17664,plane,which plane is this x-ray taken in,pa,val,1530,OPEN
+synpic36696,plane,in what plane is this ct scan taken,coronal,val,1525,OPEN
+synpic53727,plane,in what plane is this ct scan taken,3d reconstruction,val,1536,OPEN
+synpic42170,plane,which plane is this x-ray taken in,pa,val,1530,OPEN
+synpic34794,plane,what imaging plane is depicted here,axial,val,1523,OPEN
+synpic49970,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic47975,plane,what is the plane of this gastrointestinal image,frontal,val,1534,OPEN
+synpic40559,plane,what is the plane,sagittal,val,1528,OPEN
+synpic57757,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic21602,plane,what plane is this film,lateral,val,1526,OPEN
+synpic47342,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic16119,plane,what plane is seen,axial,val,1523,OPEN
+synpic48065,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic51285,plane,what plane is this film,axial,val,1523,OPEN
+synpic36236,plane,what is the plane of this x-ray,frontal,val,1534,OPEN
+synpic28587,plane,what plane was used,transverse,val,1532,OPEN
+synpic50366,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic28544,plane,what is the plane,frontal,val,1534,OPEN
+synpic37470,plane,which plane is this image in,coronal,val,1525,OPEN
+synpic38742,plane,what image plane is this,axial,val,1523,OPEN
+synpic42788,plane,which plane is this mri taken in,coronal,val,1525,OPEN
+synpic43455,plane,what plane is demonstrated,lateral,val,1526,OPEN
+synpic55545,plane,what image plane is this,axial,val,1523,OPEN
+synpic38795,plane,which plane is the image shown in,axial,val,1523,OPEN
+synpic60065,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic18848,plane,what is the plane of this gastrointestinal image,ap,val,1527,OPEN
+synpic49352,plane,what is the plane,axial,val,1523,OPEN
+synpic23766,plane,what is the plane of the image,axial,val,1523,OPEN
+synpic50039,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic40000,plane,what is the plane of this mri,sagittal,val,1528,OPEN
+synpic54713,plane,what is the plane of the ultrasound,axial,val,1523,OPEN
+synpic45150,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic47023,plane,what plane is demonstrated,sagittal,val,1528,OPEN
+synpic53042,plane,what plane is this film,sagittal,val,1528,OPEN
+synpic47751,plane,in what plane is this image oriented,sagittal,val,1528,OPEN
+synpic57218,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic30532,plane,what plane is this,ap,val,1527,OPEN
+synpic22136,plane,in what plane is this image taken,mammo - mlo,val,1529,OPEN
+synpic24235,plane,which plane is this image in,coronal,val,1525,OPEN
+synpic48112,plane,what plane is the image acquired in,coronal,val,1525,OPEN
+synpic14645,plane,what plane is demonstrated,axial,val,1523,OPEN
+synpic58329,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic50775,plane,what plane was used in this mri,sagittal,val,1528,OPEN
+synpic18902,plane,what plane is this x-ray in,lateral,val,1526,OPEN
+synpic35648,plane,what plane was used in this angiogram,frontal,val,1534,OPEN
+synpic26620,plane,in what plane is this image taken,frontal,val,1534,OPEN
+synpic48066,plane,in what plane was this image taken,coronal,val,1525,OPEN
+synpic39853,plane,what image plane is this,axial,val,1523,OPEN
+synpic27338,plane,in what plane is this mri taken,frontal,val,1534,OPEN
+synpic37881,plane,in which plane is the mri displayed,axial,val,1523,OPEN
+synpic33629,plane,in what plane is this mri captured,axial,val,1523,OPEN
+synpic53877,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic39463,plane,in what plane is this mri taken,axial,val,1523,OPEN
+synpic43481,plane,in what plane is this ultrasound,axial,val,1523,OPEN
+synpic32126,plane,what is the plane of this ct scan,axial,val,1523,OPEN
+synpic44926,plane,which plane is the image shown in,sagittal,val,1528,OPEN
+synpic58300,plane,what is the plane of the image,sagittal,val,1528,OPEN
+synpic25880,plane,what plane is seen,oblique,val,1535,OPEN
+synpic16292,plane,what plane is the image acquired in,sagittal,val,1528,OPEN
+synpic51136,plane,which plane is the image taken,3d reconstruction,val,1536,OPEN
+synpic49209,plane,in what plane is this image taken,lateral,val,1526,OPEN
+synpic55813,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic46847,plane,in what plane is this mri taken,sagittal,val,1528,OPEN
+synpic45382,plane,in which plane is the mri displayed,sagittal,val,1528,OPEN
+synpic55026,plane,what plane is this mri in,coronal,val,1525,OPEN
+synpic21980,plane,what plane is this film,pa,val,1530,OPEN
+synpic48249,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic54648,plane,in what plane is this image taken,ap,val,1527,OPEN
+synpic16484,plane,what plane is this mammograph in,mammo - mlo,val,1529,OPEN
+synpic43447,plane,in what plane was this image taken,axial,val,1523,OPEN
+synpic54675,plane,in what plane is this mri captured,axial,val,1523,OPEN
+synpic29463,plane,what is the plane,axial,val,1523,OPEN
+synpic47351,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic17228,plane,in which plane is the mri displayed,coronal,val,1525,OPEN
+synpic51490,plane,which plane is this ct scan taken in,axial,val,1523,OPEN
+synpic35880,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic34552,plane,what plane is this,axial,val,1523,OPEN
+synpic52166,plane,in what plane is this ct scan taken,sagittal,val,1528,OPEN
+synpic21188,plane,which plane is the image shown in,lateral,val,1526,OPEN
+synpic57585,plane,in what plane is this image oriented,lateral,val,1526,OPEN
+synpic40947,plane,what plane was used,axial,val,1523,OPEN
+synpic29098,plane,what plane is this film,mammo - cc,val,1531,OPEN
+synpic44506,plane,what plane was used in this mri,coronal,val,1525,OPEN
+synpic52364,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic57208,plane,what plane is the image acquired in,axial,val,1523,OPEN
+synpic57578,plane,which plane is this ct scan taken in,coronal,val,1525,OPEN
+synpic58887,plane,what image plane is this,coronal,val,1525,OPEN
+synpic50565,plane,what plane is this ct scan in,axial,val,1523,OPEN
+synpic56114,plane,in what plane is this mri,axial,val,1523,OPEN
+synpic23560,plane,in what plane is this ct scan,axial,val,1523,OPEN
+synpic34008,plane,in what plane is this ct scan,coronal,val,1525,OPEN
+synpic16083,plane,what plane is this film,axial,val,1523,OPEN
+synpic52004,plane,what is the plane of the image,longitudinal,val,1524,OPEN
+synpic15401,plane,in what plane is this image oriented,lateral,val,1526,OPEN
+synpic57801,plane,what is the plane of the ct scan,axial,val,1523,OPEN
+synpic25267,plane,which plane is the image shown in,longitudinal,val,1524,OPEN
+synpic34632,plane,what plane was used in this ct scan,sagittal,val,1528,OPEN
+synpic45021,plane,in what plane is this ct scan,coronal,val,1525,OPEN
+synpic50410,plane,what plane is seen,sagittal,val,1528,OPEN
+synpic47178,plane,what plane is this film,lateral,val,1526,OPEN
+synpic40398,plane,what plane is this mri in,axial,val,1523,OPEN
+synpic18681,plane,what plane is this mri in,sagittal,val,1528,OPEN
+synpic38551,plane,which plane is this image taken,axial,val,1523,OPEN
+synpic36540,plane,which plane is this mri taken in,sagittal,val,1528,OPEN
+synpic17203,plane,what plane was used,axial,val,1523,OPEN
+synpic57633,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic56511,plane,in what plane is this mri,sagittal,val,1528,OPEN
+synpic29500,plane,in what plane is this x-ray,pa,val,1530,OPEN
+synpic48897,plane,in what plane is this image taken,axial,val,1523,OPEN
+synpic45196,plane,what plane is this,axial,val,1523,OPEN
+synpic45828,plane,in what plane is this mri,coronal,val,1525,OPEN
+synpic60458,plane,which plane is this image taken,ap,val,1527,OPEN
+synpic43524,plane,what is the plane,coronal,val,1525,OPEN
+synpic59568,plane,what imaging plane is depicted here,sagittal,val,1528,OPEN
+synpic48459,plane,what plane is the image acquired in,sagittal,val,1528,OPEN
+synpic25647,organ,what organ system is being imaged,lung mediastinum pleura,val,1547,OPEN
+synpic35681,organ,what part of the body is being imaged,breast,val,1546,OPEN
+synpic39641,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic35693,organ,what is the organ principally shown in this mri,heart and great vessels,val,1542,OPEN
+synpic17419,organ,what organ systems can be evaluated with this ct scan,gastrointestinal,val,1544,OPEN
+synpic32909,organ,the ct scan shows what organ system,gastrointestinal,val,1544,OPEN
+synpic48040,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic48351,organ,what organ system is being imaged,lung mediastinum pleura,val,1547,OPEN
+synpic49503,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic18176,organ,the ct scan shows what organ system,gastrointestinal,val,1544,OPEN
+synpic36498,organ,what part of the body does this x-ray show,lung mediastinum pleura,val,1547,OPEN
+synpic26850,organ,what organ system is imaged,heart and great vessels,val,1542,OPEN
+synpic19508,organ,what is the organ system in this image,genitourinary,val,1539,OPEN
+synpic23496,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic25435,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic38894,organ,what organ system is evaluated primarily,gastrointestinal,val,1544,OPEN
+synpic25620,organ,what organ systems can be evaluated with this x-ray,musculoskeletal,val,1541,OPEN
+synpic25634,organ,the x-ray shows what organ system,musculoskeletal,val,1541,OPEN
+synpic36490,organ,what is the organ principally shown in this x-ray,skull and contents,val,1538,OPEN
+synpic40658,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic27614,organ,what organ system is primarily present in this image,musculoskeletal,val,1541,OPEN
+synpic26245,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic25628,organ,what organ systems can be evaluated with this x-ray,musculoskeletal,val,1541,OPEN
+synpic34446,organ,what organ system is shown in this mri,face sinuses and neck,val,1545,OPEN
+synpic28899,organ,what organ is this image of,musculoskeletal,val,1541,OPEN
+synpic28331,organ,what organ system is visualized,genitourinary,val,1539,OPEN
+synpic55791,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic32867,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic21201,organ,which organ system is shown in the x-ray,musculoskeletal,val,1541,OPEN
+synpic20686,organ,what organ is this image of,breast,val,1546,OPEN
+synpic17412,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic53907,organ,what organ system is displayed in this ct scan,face sinuses and neck,val,1545,OPEN
+synpic24024,organ,what organ system is displayed in this ultrasound,genitourinary,val,1539,OPEN
+synpic59540,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic19169,organ,what organ is this image of,musculoskeletal,val,1541,OPEN
+synpic52424,organ,what is one organ system seen in this image,spine and contents,val,1540,OPEN
+synpic52430,organ,what is the organ principally shown in this mri,musculoskeletal,val,1541,OPEN
+synpic51878,organ,what organ is this mri showing,gastrointestinal,val,1544,OPEN
+synpic25109,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic21186,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic52140,organ,what part of the body is being imaged here,face sinuses and neck,val,1545,OPEN
+synpic32893,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic25451,organ,what organ system is evaluated primarily,lung mediastinum pleura,val,1547,OPEN
+synpic18101,organ,the x-ray shows what organ system,spine and contents,val,1540,OPEN
+synpic18115,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic17583,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic100295,organ,what is one organ system seen in this image,genitourinary,val,1539,OPEN
+synpic46243,organ,what organ system is shown in this mri,spine and contents,val,1540,OPEN
+synpic38951,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic60290,organ,the ct scan shows what organ system,genitourinary,val,1539,OPEN
+synpic17970,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic17780,organ,what part of the body does this gastrointestinal image show,gastrointestinal,val,1544,OPEN
+synpic28216,organ,what is the organ principally shown in this gastrointestinal image,gastrointestinal,val,1544,OPEN
+synpic31753,organ,what organ is this ct scan showing,vascular and lymphatic,val,1543,OPEN
+synpic16475,organ,what organ system is pictured here,gastrointestinal,val,1544,OPEN
+synpic38575,organ,what organ system is displayed in this mri,skull and contents,val,1538,OPEN
+synpic41707,organ,what organ system is primarily present in this image,spine and contents,val,1540,OPEN
+synpic26950,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic18921,organ,what organ system is primarily present in this image,genitourinary,val,1539,OPEN
+synpic29054,organ,what organ is this x-ray showing,musculoskeletal,val,1541,OPEN
+synpic56870,organ,what is one organ system seen in this image,spine and contents,val,1540,OPEN
+synpic21385,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic57577,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic40779,organ,what organ system is visualized,gastrointestinal,val,1544,OPEN
+synpic49985,organ,what organ system is shown in the image,spine and contents,val,1540,OPEN
+synpic50556,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic57239,organ,which organ system is shown in the mri,skull and contents,val,1538,OPEN
+synpic54730,organ,what organ system is being imaged,gastrointestinal,val,1544,OPEN
+synpic52631,organ,which organ system is shown in the mri,skull and contents,val,1538,OPEN
+synpic28837,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic39709,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic61204,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic27523,organ,what organ is this ct scan showing,lung mediastinum pleura,val,1547,OPEN
+synpic61238,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic58532,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic45577,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic39696,organ,what is the organ system in this image,skull and contents,val,1538,OPEN
+synpic23157,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic23631,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic27319,organ,which organ is captured by this x-ray,musculoskeletal,val,1541,OPEN
+synpic51072,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic53659,organ,what organ system is pictured here,lung mediastinum pleura,val,1547,OPEN
+synpic58095,organ,what organ is this ct scan showing,gastrointestinal,val,1544,OPEN
+synpic60250,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic40194,organ,what part of the body does this ct scan show,musculoskeletal,val,1541,OPEN
+synpic29645,organ,what organ system is primarily present in this image,musculoskeletal,val,1541,OPEN
+synpic31036,organ,what organ system is primarily present in this image,lung mediastinum pleura,val,1547,OPEN
+synpic33806,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic27873,organ,what organ is this image showing,breast,val,1546,OPEN
+synpic38953,organ,what is the organ principally shown in this x-ray,musculoskeletal,val,1541,OPEN
+synpic49172,organ,what organ system is primarily present in this image,musculoskeletal,val,1541,OPEN
+synpic59407,organ,what is one organ system seen in this image,face sinuses and neck,val,1545,OPEN
+synpic43477,organ,what organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic53314,organ,what is the organ system in this image,skull and contents,val,1538,OPEN
+synpic46876,organ,what part of the body does this x-ray show,lung mediastinum pleura,val,1547,OPEN
+synpic28188,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic47573,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic30260,organ,what organ system is being imaged,vascular and lymphatic,val,1543,OPEN
+synpic45827,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic27046,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic20729,organ,the ct scan shows what organ system,spine and contents,val,1540,OPEN
+synpic30248,organ,which organ system is shown in the ct scan,heart and great vessels,val,1542,OPEN
+synpic53738,organ,what organ system is shown in the image,spine and contents,val,1540,OPEN
+synpic17620,organ,what organ is this ct scan showing,gastrointestinal,val,1544,OPEN
+synpic47017,organ,what organ system is displayed in this mri,skull and contents,val,1538,OPEN
+synpic41314,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic55403,organ,what is the organ principally shown in this ct scan,skull and contents,val,1538,OPEN
+synpic27730,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic58682,organ,which organ system is imaged,spine and contents,val,1540,OPEN
+synpic50023,organ,what organ system is imaged,lung mediastinum pleura,val,1547,OPEN
+synpic57758,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic19225,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic16880,organ,which organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic48730,organ,what organ system is imaged,genitourinary,val,1539,OPEN
+synpic21786,organ,what organ system is evaluated primarily,face sinuses and neck,val,1545,OPEN
+synpic25090,organ,which organ system is shown in the ct scan,gastrointestinal,val,1544,OPEN
+synpic58912,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic35240,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic33143,organ,which organ system is shown in the mri,musculoskeletal,val,1541,OPEN
+synpic28204,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic26201,organ,what is the organ principally shown in this x-ray,skull and contents,val,1538,OPEN
+synpic41271,organ,which organ is captured by this x-ray,musculoskeletal,val,1541,OPEN
+synpic8182,organ,what is the organ system in this image,gastrointestinal,val,1544,OPEN
+synpic57188,organ,what organ system is displayed in this mri,skull and contents,val,1538,OPEN
+synpic43843,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic36210,organ,what organ system is pictured here,face sinuses and neck,val,1545,OPEN
+synpic58495,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic40231,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic40782,organ,what organ systems can be evaluated with this ct scan,spine and contents,val,1540,OPEN
+synpic53098,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic31184,organ,the ct scan shows what organ system,genitourinary,val,1539,OPEN
+synpic56123,organ,what organ system is primarily present in this image,musculoskeletal,val,1541,OPEN
+synpic59548,organ,the ct scan shows what organ system,skull and contents,val,1538,OPEN
+synpic21418,organ,what organ system is shown in the image,lung mediastinum pleura,val,1547,OPEN
+synpic17814,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic22893,organ,which organ system is imaged,face sinuses and neck,val,1545,OPEN
+synpic33236,organ,what organ system is shown in this angiogram,vascular and lymphatic,val,1543,OPEN
+synpic59945,organ,which organ is captured by this ct scan,skull and contents,val,1538,OPEN
+synpic27492,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic45565,organ,what organ is this ct scan showing,lung mediastinum pleura,val,1547,OPEN
+synpic16883,organ,what part of the body does this mri show,musculoskeletal,val,1541,OPEN
+synpic43699,organ,what organ is this mri showing,skull and contents,val,1538,OPEN
+synpic23151,organ,what organ system is shown in the image,lung mediastinum pleura,val,1547,OPEN
+synpic21020,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic52596,organ,what organ system is pictured here,spine and contents,val,1540,OPEN
+synpic56901,organ,what organ system is displayed in this mri,spine and contents,val,1540,OPEN
+synpic38404,organ,what organ system is shown in the image,spine and contents,val,1540,OPEN
+synpic40597,organ,which organ is captured by this ct scan,genitourinary,val,1539,OPEN
+synpic26612,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic100332,organ,what part of the body is being imaged,spine and contents,val,1540,OPEN
+synpic26809,organ,what organ is this ct scan showing,genitourinary,val,1539,OPEN
+synpic59005,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic43576,organ,which organ system is shown in the x-ray,musculoskeletal,val,1541,OPEN
+synpic33913,organ,what is one organ system seen in this image,genitourinary,val,1539,OPEN
+synpic23255,organ,what organ systems can be evaluated with this ct scan,skull and contents,val,1538,OPEN
+synpic21442,organ,what organ system is shown in the image,genitourinary,val,1539,OPEN
+synpic38885,organ,which organ system is shown in the ct scan,gastrointestinal,val,1544,OPEN
+synpic17866,organ,which organ is captured by this ct scan,genitourinary,val,1539,OPEN
+synpic24512,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic24506,organ,what organ system is displayed in this mri,skull and contents,val,1538,OPEN
+synpic39557,organ,what part of the body does this x-ray show,lung mediastinum pleura,val,1547,OPEN
+synpic33293,organ,what part of the body is being imaged here,gastrointestinal,val,1544,OPEN
+synpic13143,organ,which organ is captured by this mri,face sinuses and neck,val,1545,OPEN
+synpic17319,organ,what is one organ system seen in this image,gastrointestinal,val,1544,OPEN
+synpic33481,organ,what organ is this image of,lung mediastinum pleura,val,1547,OPEN
+synpic24857,organ,what organ system is shown in this ct scan,skull and contents,val,1538,OPEN
+synpic37195,organ,what is the organ principally shown in this ct scan,genitourinary,val,1539,OPEN
+synpic48796,organ,what organ system is primarily present in this image,lung mediastinum pleura,val,1547,OPEN
+synpic47664,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic56027,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic42084,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic37433,organ,what organ system is imaged,face sinuses and neck,val,1545,OPEN
+synpic34853,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic32749,organ,what organ system is visualized,spine and contents,val,1540,OPEN
+synpic60966,organ,what organ system is evaluated primarily,lung mediastinum pleura,val,1547,OPEN
+synpic25382,organ,what organ system is shown in the image,vascular and lymphatic,val,1543,OPEN
+synpic39967,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic27768,organ,what organ system is shown in this angiogram,vascular and lymphatic,val,1543,OPEN
+synpic30200,organ,what organ system is visualized,face sinuses and neck,val,1545,OPEN
+synpic31678,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic53994,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic49072,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic19651,organ,what organ system is being imaged,spine and contents,val,1540,OPEN
+synpic53980,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic33084,organ,what is the organ system in this image,genitourinary,val,1539,OPEN
+synpic56608,organ,what organ systems can be evaluated with this ct scan,spine and contents,val,1540,OPEN
+synpic48422,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic46419,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic17124,organ,which organ is captured by this x-ray,musculoskeletal,val,1541,OPEN
+synpic47049,organ,which organ is captured by this ct scan,gastrointestinal,val,1544,OPEN
+synpic40915,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic51818,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic32401,organ,the x-ray shows what organ system,face sinuses and neck,val,1545,OPEN
+synpic34070,organ,what organ system is evaluated primarily,gastrointestinal,val,1544,OPEN
+synpic55854,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic29237,organ,what organ system is displayed in this x-ray,musculoskeletal,val,1541,OPEN
+synpic39193,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic33455,organ,what organ system is imaged,genitourinary,val,1539,OPEN
+synpic41564,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic54169,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic57312,organ,what organ system is shown in this ct scan,spine and contents,val,1540,OPEN
+synpic54627,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic58790,organ,what is the organ principally shown in this ct scan,skull and contents,val,1538,OPEN
+synpic58974,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic35568,organ,what organ is this ct scan showing,skull and contents,val,1538,OPEN
+synpic53835,organ,what organ system is being imaged,heart and great vessels,val,1542,OPEN
+synpic47855,organ,the mri shows what organ system,spine and contents,val,1540,OPEN
+synpic58008,organ,what part of the body does this ct scan show,spine and contents,val,1540,OPEN
+synpic15120,organ,what organ system is imaged,spine and contents,val,1540,OPEN
+synpic33695,organ,which organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic100545,organ,what organ system is being imaged,spine and contents,val,1540,OPEN
+synpic58544,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic32825,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic41613,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic39569,organ,what organ is this x-ray showing,musculoskeletal,val,1541,OPEN
+synpic24538,organ,what part of the body is being imaged,heart and great vessels,val,1542,OPEN
+synpic17121,organ,what organ systems can be evaluated with this x-ray,breast,val,1546,OPEN
+synpic34061,organ,what organ is this image of,gastrointestinal,val,1544,OPEN
+synpic36110,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic56814,organ,what organ is this image of,musculoskeletal,val,1541,OPEN
+synpic43955,organ,which organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic54434,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic24879,organ,what organ system is being imaged,gastrointestinal,val,1544,OPEN
+synpic39828,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic48021,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic49129,organ,what organ is this ct scan showing,genitourinary,val,1539,OPEN
+synpic58742,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic15871,organ,which organ is captured by this ct scan,musculoskeletal,val,1541,OPEN
+synpic58965,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic39357,organ,what organ system is visualized,heart and great vessels,val,1542,OPEN
+synpic60223,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic34841,organ,what is the organ principally shown in this mri,musculoskeletal,val,1541,OPEN
+synpic21041,organ,what organ system is displayed in this ct scan,heart and great vessels,val,1542,OPEN
+synpic55071,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic41825,organ,which organ is captured by this mri,musculoskeletal,val,1541,OPEN
+synpic55850,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic34276,organ,which organ system is shown in the mri,spine and contents,val,1540,OPEN
+synpic25384,organ,what organ system is shown in this mri,skull and contents,val,1538,OPEN
+synpic43767,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic23252,organ,which organ is captured by this ultrasound,genitourinary,val,1539,OPEN
+synpic53789,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic52468,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic42135,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic58184,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic48397,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic45466,organ,what part of the body is being imaged here,face sinuses and neck,val,1545,OPEN
+synpic46966,organ,what is the organ system in this image,musculoskeletal,val,1541,OPEN
+synpic39618,organ,which organ system is shown in the x-ray,musculoskeletal,val,1541,OPEN
+synpic18359,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic56036,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic49116,organ,what organ system is evaluated primarily,spine and contents,val,1540,OPEN
+synpic53199,organ,the ct scan shows what organ system,skull and contents,val,1538,OPEN
+synpic38739,organ,what organ system is imaged,genitourinary,val,1539,OPEN
+synpic17902,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic22952,organ,what organ system is shown in the image,genitourinary,val,1539,OPEN
+synpic16361,organ,what is the organ principally shown in this mri,musculoskeletal,val,1541,OPEN
+synpic19052,organ,what organ system is primarily present in this image,gastrointestinal,val,1544,OPEN
+synpic27433,organ,what organ system is shown in this ultrasound,genitourinary,val,1539,OPEN
+synpic54393,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic42268,organ,which organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic17527,organ,what part of the body is being imaged,lung mediastinum pleura,val,1547,OPEN
+synpic43604,organ,what is the organ principally shown in this ultrasound,genitourinary,val,1539,OPEN
+synpic50917,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic39751,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic21687,organ,what organ system is shown in the image,vascular and lymphatic,val,1543,OPEN
+synpic35180,organ,what organ system is primarily present in this image,genitourinary,val,1539,OPEN
+synpic18012,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic16765,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic19640,organ,what part of the body is being imaged,vascular and lymphatic,val,1543,OPEN
+synpic54017,organ,what organ is this image of,face sinuses and neck,val,1545,OPEN
+synpic33926,organ,what organ systems can be evaluated with this ct scan,genitourinary,val,1539,OPEN
+synpic59241,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic44990,organ,what is the organ system in this image,spine and contents,val,1540,OPEN
+synpic28094,organ,what organ systems can be evaluated with this x-ray,musculoskeletal,val,1541,OPEN
+synpic35947,organ,what organ system is imaged,spine and contents,val,1540,OPEN
+synpic41793,organ,what organ is this mri showing,spine and contents,val,1540,OPEN
+synpic43423,organ,what is one organ system seen in this image,musculoskeletal,val,1541,OPEN
+synpic16378,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic33107,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic47877,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic22547,organ,what part of the body does this ct scan show,genitourinary,val,1539,OPEN
+synpic33489,organ,what part of the body is being imaged here,gastrointestinal,val,1544,OPEN
+synpic20393,organ,which organ is captured by this x-ray,musculoskeletal,val,1541,OPEN
+synpic50674,organ,what is the organ principally shown in this mri,spine and contents,val,1540,OPEN
+synpic46002,organ,what organ system is shown in this ct scan,heart and great vessels,val,1542,OPEN
+synpic41751,organ,what is the organ system in this image,spine and contents,val,1540,OPEN
+synpic21890,organ,what part of the body does this mri show,gastrointestinal,val,1544,OPEN
+synpic9384,organ,what organ system is shown in this x-ray,vascular and lymphatic,val,1543,OPEN
+synpic31315,organ,what organ system is imaged,breast,val,1546,OPEN
+synpic38331,organ,what organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic25374,organ,what is the organ principally shown in this ultrasound,vascular and lymphatic,val,1543,OPEN
+synpic54214,organ,what organ system is displayed in this ct scan,spine and contents,val,1540,OPEN
+synpic56615,organ,which organ is captured by this ct scan,spine and contents,val,1540,OPEN
+synpic37599,organ,which organ is captured by this mri,vascular and lymphatic,val,1543,OPEN
+synpic55308,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic45133,organ,the ct scan shows what organ system,gastrointestinal,val,1544,OPEN
+synpic54994,organ,what is the organ principally shown in this ct scan,skull and contents,val,1538,OPEN
+synpic41341,organ,what organ is this image of,face sinuses and neck,val,1545,OPEN
+synpic54766,organ,what is the organ principally shown in this mri,face sinuses and neck,val,1545,OPEN
+synpic22196,organ,what is the organ system in this image,genitourinary,val,1539,OPEN
+synpic29772,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic18008,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic30800,organ,what organ system is imaged,heart and great vessels,val,1542,OPEN
+synpic41960,organ,what is the organ principally shown in this gastrointestinal image,gastrointestinal,val,1544,OPEN
+synpic28295,organ,what organ system is shown in the image,face sinuses and neck,val,1545,OPEN
+synpic24487,organ,what organ system is displayed in this angiogram,skull and contents,val,1538,OPEN
+synpic20187,organ,what organ system is pictured here,vascular and lymphatic,val,1543,OPEN
+synpic26246,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic16352,organ,what part of the body does this ct scan show,vascular and lymphatic,val,1543,OPEN
+synpic59337,organ,what part of the body is being imaged here,lung mediastinum pleura,val,1547,OPEN
+synpic48212,organ,what organ system is shown in this x-ray,lung mediastinum pleura,val,1547,OPEN
+synpic57871,organ,what part of the body does this angiogram show,skull and contents,val,1538,OPEN
+synpic34454,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic17299,organ,what part of the body does this angiogram show,vascular and lymphatic,val,1543,OPEN
+synpic28733,organ,what organ system is being imaged,lung mediastinum pleura,val,1547,OPEN
+synpic55727,organ,the mri shows what organ system,breast,val,1546,OPEN
+synpic45246,organ,what part of the body is being imaged here,lung mediastinum pleura,val,1547,OPEN
+synpic57642,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic60171,organ,what is the organ system in this image,face sinuses and neck,val,1545,OPEN
+synpic29565,organ,what part of the body does this x-ray show,lung mediastinum pleura,val,1547,OPEN
+synpic19303,organ,what organ systems can be evaluated with this image,breast,val,1546,OPEN
+synpic51353,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic26332,organ,what is the organ principally shown in this ct scan,lung mediastinum pleura,val,1547,OPEN
+synpic53785,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic53024,organ,what organ system is displayed in this ct scan,skull and contents,val,1538,OPEN
+synpic45861,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic31104,organ,what is one organ system seen in this image,lung mediastinum pleura,val,1547,OPEN
+synpic49242,organ,what organ system is pictured here,spine and contents,val,1540,OPEN
+synpic41636,organ,what organ is this ct scan showing,face sinuses and neck,val,1545,OPEN
+synpic58401,organ,what part of the body is being imaged,heart and great vessels,val,1542,OPEN
+synpic51357,organ,what organ system is displayed in this mri,face sinuses and neck,val,1545,OPEN
+synpic44955,organ,what organ is this image of,face sinuses and neck,val,1545,OPEN
+synpic23070,organ,what organ system is pictured here,gastrointestinal,val,1544,OPEN
+synpic47469,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic19529,organ,what organ system is pictured here,lung mediastinum pleura,val,1547,OPEN
+synpic46993,organ,which organ system is shown in the mri,spine and contents,val,1540,OPEN
+synpic28051,organ,the ct scan shows what organ system,skull and contents,val,1538,OPEN
+synpic58993,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic43431,organ,what part of the body is being imaged here,gastrointestinal,val,1544,OPEN
+synpic20814,organ,what organ system is visualized,breast,val,1546,OPEN
+synpic46549,organ,what organ systems can be evaluated with this gastrointestinal image,gastrointestinal,val,1544,OPEN
+synpic54830,organ,what organ system is evaluated primarily,musculoskeletal,val,1541,OPEN
+synpic40845,organ,what organ system is displayed in this mri,skull and contents,val,1538,OPEN
+synpic35203,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic58951,organ,which organ system is imaged,face sinuses and neck,val,1545,OPEN
+synpic51752,organ,what organ is this ultrasound showing,skull and contents,val,1538,OPEN
+synpic19716,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic56001,organ,the angiogram shows what organ system,skull and contents,val,1538,OPEN
+synpic55508,organ,what organ system is primarily present in this image,face sinuses and neck,val,1545,OPEN
+synpic32746,organ,what organ system is shown in the image,musculoskeletal,val,1541,OPEN
+synpic52918,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic21672,organ,what is one organ system seen in this image,gastrointestinal,val,1544,OPEN
+synpic51395,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic27571,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic50921,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic53596,organ,what organ system is shown in this mri,heart and great vessels,val,1542,OPEN
+synpic32632,organ,what is the organ principally shown in this x-ray,musculoskeletal,val,1541,OPEN
+synpic59939,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic22390,organ,what organ is this ct scan showing,musculoskeletal,val,1541,OPEN
+synpic28454,organ,what organ system is evaluated primarily,gastrointestinal,val,1544,OPEN
+synpic40703,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic38876,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic15700,organ,what is the organ principally shown in this mri,vascular and lymphatic,val,1543,OPEN
+synpic21328,organ,what organ system is pictured here,spine and contents,val,1540,OPEN
+synpic44995,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic48836,organ,the ultrasound shows what organ system,heart and great vessels,val,1542,OPEN
+synpic26651,organ,what organ system is pictured here,heart and great vessels,val,1542,OPEN
+synpic57862,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic43817,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic24495,organ,what organ system is shown in this x-ray,vascular and lymphatic,val,1543,OPEN
+synpic22755,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic34123,organ,what organ system is displayed in this ct scan,genitourinary,val,1539,OPEN
+synpic22741,organ,what organ is this mri showing,spine and contents,val,1540,OPEN
+synpic33102,organ,what organ systems can be evaluated with this x-ray,lung mediastinum pleura,val,1547,OPEN
+synpic47683,organ,what organ system is shown in the image,face sinuses and neck,val,1545,OPEN
+synpic19933,organ,what is one organ system seen in this image,lung mediastinum pleura,val,1547,OPEN
+synpic53152,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic40660,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic31933,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic24899,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic55682,organ,what organ is this image of,skull and contents,val,1538,OPEN
+synpic53581,organ,which organ system is shown in the x-ray,skull and contents,val,1538,OPEN
+synpic11771,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic31884,organ,what is the organ system in this image,gastrointestinal,val,1544,OPEN
+synpic17664,organ,what organ system is visualized,heart and great vessels,val,1542,OPEN
+synpic36696,organ,what part of the body does this ct scan show,genitourinary,val,1539,OPEN
+synpic53727,organ,what part of the body is being imaged,heart and great vessels,val,1542,OPEN
+synpic42170,organ,what organ system is pictured here,lung mediastinum pleura,val,1547,OPEN
+synpic34794,organ,what is the organ principally shown in this mri,skull and contents,val,1538,OPEN
+synpic49970,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic47975,organ,what is the organ principally shown in this gastrointestinal image,gastrointestinal,val,1544,OPEN
+synpic40559,organ,what organ system is imaged,spine and contents,val,1540,OPEN
+synpic57757,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic21602,organ,which organ system is shown in the x-ray,musculoskeletal,val,1541,OPEN
+synpic47342,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic16119,organ,what organ system is displayed in this mri,face sinuses and neck,val,1545,OPEN
+synpic48065,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic51285,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic36236,organ,what part of the body is being imaged,lung mediastinum pleura,val,1547,OPEN
+synpic28587,organ,what organ system is pictured here,face sinuses and neck,val,1545,OPEN
+synpic50366,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic28544,organ,what part of the body does this gastrointestinal image show,gastrointestinal,val,1544,OPEN
+synpic37470,organ,what part of the body is being imaged here,vascular and lymphatic,val,1543,OPEN
+synpic38742,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic42788,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic43455,organ,what organ system is evaluated primarily,lung mediastinum pleura,val,1547,OPEN
+synpic55545,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic38795,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic60065,organ,which organ is captured by this mri,musculoskeletal,val,1541,OPEN
+synpic18848,organ,which organ system is imaged,gastrointestinal,val,1544,OPEN
+synpic49352,organ,what organ system is primarily present in this image,gastrointestinal,val,1544,OPEN
+synpic23766,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic50039,organ,what organ system is primarily present in this image,spine and contents,val,1540,OPEN
+synpic40000,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic54713,organ,which organ is captured by this ultrasound,face sinuses and neck,val,1545,OPEN
+synpic45150,organ,what part of the body does this mri show,skull and contents,val,1538,OPEN
+synpic47023,organ,what organ system is shown in this mri,skull and contents,val,1538,OPEN
+synpic53042,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic47751,organ,what part of the body is being imaged here,skull and contents,val,1538,OPEN
+synpic57218,organ,what part of the body is being imaged,musculoskeletal,val,1541,OPEN
+synpic30532,organ,which organ system is imaged,spine and contents,val,1540,OPEN
+synpic22136,organ,what organ system is being imaged,breast,val,1546,OPEN
+synpic24235,organ,which organ system is imaged,genitourinary,val,1539,OPEN
+synpic48112,organ,what organ system is primarily present in this image,genitourinary,val,1539,OPEN
+synpic14645,organ,what is one organ system seen in this image,musculoskeletal,val,1541,OPEN
+synpic58329,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic50775,organ,what organ system is evaluated primarily,spine and contents,val,1540,OPEN
+synpic18902,organ,what is one organ system seen in this image,musculoskeletal,val,1541,OPEN
+synpic35648,organ,what organ system is primarily present in this image,vascular and lymphatic,val,1543,OPEN
+synpic26620,organ,what is the organ system in this image,gastrointestinal,val,1544,OPEN
+synpic48066,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic39853,organ,what part of the body is being imaged here,gastrointestinal,val,1544,OPEN
+synpic27338,organ,what organ system is imaged,musculoskeletal,val,1541,OPEN
+synpic37881,organ,what part of the body does this mri show,spine and contents,val,1540,OPEN
+synpic33629,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic53877,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic39463,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic43481,organ,what organ system is primarily present in this image,face sinuses and neck,val,1545,OPEN
+synpic32126,organ,what organ system is being imaged,vascular and lymphatic,val,1543,OPEN
+synpic44926,organ,what organ is this mri showing,musculoskeletal,val,1541,OPEN
+synpic58300,organ,what organ system is shown in this mri,spine and contents,val,1540,OPEN
+synpic25880,organ,what organ system is pictured here,gastrointestinal,val,1544,OPEN
+synpic16292,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic51136,organ,what organ system is pictured here,lung mediastinum pleura,val,1547,OPEN
+synpic49209,organ,what organ system is pictured here,musculoskeletal,val,1541,OPEN
+synpic55813,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic46847,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic45382,organ,what organ system is being imaged,spine and contents,val,1540,OPEN
+synpic55026,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic21980,organ,what is one organ system seen in this image,lung mediastinum pleura,val,1547,OPEN
+synpic48249,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic54648,organ,what organ system is evaluated primarily,vascular and lymphatic,val,1543,OPEN
+synpic16484,organ,what organ is this image of,breast,val,1546,OPEN
+synpic43447,organ,what organ system is evaluated primarily,gastrointestinal,val,1544,OPEN
+synpic54675,organ,which organ system is shown in the mri,skull and contents,val,1538,OPEN
+synpic29463,organ,what organ system is imaged,vascular and lymphatic,val,1543,OPEN
+synpic47351,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic17228,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic51490,organ,what organ system is visualized,gastrointestinal,val,1544,OPEN
+synpic35880,organ,what organ system is primarily present in this image,skull and contents,val,1538,OPEN
+synpic34552,organ,which organ is captured by this mri,skull and contents,val,1538,OPEN
+synpic52166,organ,which organ is captured by this ct scan,musculoskeletal,val,1541,OPEN
+synpic21188,organ,what organ system is being imaged,spine and contents,val,1540,OPEN
+synpic57585,organ,what part of the body does this x-ray show,spine and contents,val,1540,OPEN
+synpic40947,organ,what is the organ system in this image,skull and contents,val,1538,OPEN
+synpic29098,organ,what part of the body is being imaged,breast,val,1546,OPEN
+synpic44506,organ,which organ system is shown in the mri,skull and contents,val,1538,OPEN
+synpic52364,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic57208,organ,which organ system is shown in the ct scan,skull and contents,val,1538,OPEN
+synpic57578,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic58887,organ,what part of the body is being imaged,skull and contents,val,1538,OPEN
+synpic50565,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic56114,organ,the mri shows what organ system,skull and contents,val,1538,OPEN
+synpic23560,organ,what organ system is shown in the image,gastrointestinal,val,1544,OPEN
+synpic34008,organ,what organ system is evaluated primarily,lung mediastinum pleura,val,1547,OPEN
+synpic16083,organ,what part of the body is being imaged here,heart and great vessels,val,1542,OPEN
+synpic52004,organ,what organ system is visualized,skull and contents,val,1538,OPEN
+synpic15401,organ,what organ is this image of,heart and great vessels,val,1542,OPEN
+synpic57801,organ,which organ system is imaged,skull and contents,val,1538,OPEN
+synpic25267,organ,what organ system is pictured here,gastrointestinal,val,1544,OPEN
+synpic34632,organ,what organ system is shown in this ct scan,spine and contents,val,1540,OPEN
+synpic45021,organ,what part of the body does this ct scan show,vascular and lymphatic,val,1543,OPEN
+synpic50410,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic47178,organ,what organ system is visualized,musculoskeletal,val,1541,OPEN
+synpic40398,organ,what organ system is imaged,skull and contents,val,1538,OPEN
+synpic18681,organ,what organ systems can be evaluated with this mri,skull and contents,val,1538,OPEN
+synpic38551,organ,what is the organ system in this image,skull and contents,val,1538,OPEN
+synpic36540,organ,what is one organ system seen in this image,skull and contents,val,1538,OPEN
+synpic17203,organ,what part of the body is being imaged,gastrointestinal,val,1544,OPEN
+synpic57633,organ,what organ system is imaged,spine and contents,val,1540,OPEN
+synpic56511,organ,what organ system is shown in this mri,skull and contents,val,1538,OPEN
+synpic29500,organ,the x-ray shows what organ system,gastrointestinal,val,1544,OPEN
+synpic48897,organ,what organ system is evaluated primarily,skull and contents,val,1538,OPEN
+synpic45196,organ,what organ system is shown in this mri,face sinuses and neck,val,1545,OPEN
+synpic45828,organ,what organ system is pictured here,skull and contents,val,1538,OPEN
+synpic60458,organ,what part of the body is being imaged here,musculoskeletal,val,1541,OPEN
+synpic43524,organ,what organ system is being imaged,skull and contents,val,1538,OPEN
+synpic59568,organ,what organ system is shown in the image,skull and contents,val,1538,OPEN
+synpic48459,organ,which organ system is shown in the mri,spine and contents,val,1540,OPEN

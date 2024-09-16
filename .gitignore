@@ -1,0 +1,5 @@
+./datasets
+./VQAModel/Results
+./VQAModel/label_to_answer_mapping.pkl
+./VQAModel/wordtovec.model
+./VQAModel/wordtovec.model.wv.vectors_ngrams.npy
