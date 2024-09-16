@@ -13,3 +13,5 @@ architecture based on transformers, using BioBERT for question processing and
 ViT for images. This architecture was implemented, evaluated, and compared
 to chosen baselines. Finally, the best architecture was deployed as an API and
 tested on images from the medical field.
+
+Technologies used : PyTorch, OpenCV, Tensorflow, MatplotLib, gradio, Sklearn.
